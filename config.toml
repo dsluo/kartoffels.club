@@ -1,3 +1,47 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://kartoffels.club/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+paginate = 5
+title = "Kartoffel's Club"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+
+socialIcons = [
+  { name = "discord", url = "https://discord.gg/UdY9vae" },
+  { name = "youtube", url = "https://www.youtube.com/channel/UC7f1CoFWmhSmvvelweb-NcQ" },
+  { name = "kofi", url = "https://ko-fi.com/kartoffels" },
+  { name = "nexus", url = "https://www.nexusmods.com/users/6129887" },
+]
+
+[params.profileMode]
+enabled = true
+imageUrl = 'img/pfp.png'
+imageWidth = 200
+imageHeight = 200
+buttons = [
+  { name = "Posts", url = "posts" },
+  { name = "Downloads", url = "downloads" },
+]
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "posts"
+weight = 10
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "projects"
+weight = 20
+
+[[menu.main]]
+identifier = "downloads"
+name = "Downloads"
+url = "downloads"
+weight = 30
