@@ -1,0 +1,14 @@
+<div class="juxtapose"
+  {{ with .Get "startingPosition" }}data-startingposition="{{ . }}"{{ end }}
+  {{ with .Get "animate" }}data-animate="{{ . }}"{{ end }}>
+  <img
+    {{ with .Get "left" }}src="{{ . }}"{{ end }}
+    {{ with .Get "leftLabel" }}data-label="{{ . }}"{{ end }}
+    {{ with .Get "leftCredit" }}data-credit="{{ . }}"{{ end }}
+  />
+  <img
+    {{ with .Get "right" }}src="{{ . }}"{{ end }}
+    {{ with .Get "rightLabel" }}data-label="{{ . }}"{{ end }}
+    {{ with .Get "rightCredit" }}data-credit="{{ . }}"{{ end }}
+  />
+</div>
