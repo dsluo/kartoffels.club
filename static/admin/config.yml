@@ -14,11 +14,19 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Categories", name: "categories", widget: "list" }
       - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Show Table of Contents"
+        name: "showTableOfContents"
+        widget: "boolean"
+        default: false
+      - label: "Draft"
+        name: "draft"
+        widget: "boolean"
+        default: true
   - name: "pages"
     label: "Pages"
     label_singular: "Page"
@@ -28,16 +36,10 @@ collections:
         label_singular: "Project"
         file: "content/projects.md"
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Publish Date", name: "date", widget: "datetime" }
-          - { label: "Description", name: "description", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
       - name: "downloads"
         label: "Downloads"
         label_singular: "Download"
         file: "content/downloads.md"
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Publish Date", name: "date", widget: "datetime" }
-          - { label: "Description", name: "description", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
