@@ -1,8 +1,8 @@
+site_url: https://kartoffels.club/
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 media_folder: static/img
-public_folder: /img
 collections:
   - name: "posts"
     label: "Posts"
@@ -17,3 +17,25 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "pages"
+    label: "Pages"
+    label_singular: "Page"
+    files:
+      - name: "projects"
+        label: "Projects"
+        label_singular: "Project"
+        file: "content/projects.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - name: "downloads"
+        label: "Downloads"
+        label_singular: "Download"
+        file: "content/downloads.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
