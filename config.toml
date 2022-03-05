@@ -16,6 +16,7 @@ socialIcons = [
   { name = "youtube", url = "https://www.youtube.com/channel/UC7f1CoFWmhSmvvelweb-NcQ" },
   { name = "kofi", url = "https://ko-fi.com/kartoffels" },
   { name = "nexus", url = "https://www.nexusmods.com/users/6129887" },
+  { name = "github", url= "https://github.com/emarron" }
 ]
 
 [params.profileMode]
