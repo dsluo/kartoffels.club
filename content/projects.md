@@ -7,21 +7,17 @@ showDateUpdated: true
 showPagination: false
 showReadingTime: false
 ---
-# Things that take more than a week to do.
+# Things that took awhile to do, or are ongoing.
 
 ## **FFXIV**
 
-<!--StartFragment-->
+Upscaled FFXIV Textures
 
-[Upscaled World Textures Beta](https://www.nexusmods.com/finalfantasy14/mods/1505)
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-[Upscaled Armors Equipment BETA](https://www.nexusmods.com/finalfantasy14/mods/1442)
-
-<!--EndFragment-->
+* [Upscaled World Textures](https://www.nexusmods.com/finalfantasy14/mods/1505)
+* [Upscaled Armors Equipment Textures](https://www.nexusmods.com/finalfantasy14/mods/1442)
+* [Upscaled NPC Textures](https://www.nexusmods.com/finalfantasy14/mods/1507)
+* [Upscaled Chocobo](https://www.nexusmods.com/finalfantasy14/mods/1486)
+* [Upscaled Weapon Textures](https://www.nexusmods.com/finalfantasy14/mods/1479)
 
 ## **Elder Scrolls**
 
@@ -38,15 +34,11 @@ Skyrim Upscaled Textures (SSEUT)
 
 [Cleaned Skyrim SE Textures](https://www.nexusmods.com/skyrimspecialedition/mods/38775)
 
-
-
 ### **Morrowind**
 
 **[Facelift](https://www.nexusmods.com/morrowind/mods/47617)**
 
 [Races Redone - Hair and Helmet Fix](https://www.nexusmods.com/morrowind/mods/47017)
-
-
 
 ### **Oblivion**
 
