@@ -11,7 +11,7 @@ showReadingTime: false
 
 ## **FFXIV**
 
-Upscaled FFXIV Textures
+FFXIV Upscaled Textures
 
 * [Upscaled World Textures](https://www.nexusmods.com/finalfantasy14/mods/1505)
 * [Upscaled Armors Equipment Textures](https://www.nexusmods.com/finalfantasy14/mods/1442)
