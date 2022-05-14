@@ -35,8 +35,8 @@ Stormblood textures pt 1, Stormblood textures pt 2 ([Nexus Link](https://www.nex
 
 **[](https://www.nexusmods.com/finalfantasy14/mods/1479)UPSCALED FACE TEXTURES**
 
-(Nexus Link)
+[(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1584)
 
-**UPSCALED NPC TEXTURES**
+**[](https://www.nexusmods.com/finalfantasy14/mods/1584)UPSCALED NPC TEXTURES**
 
 [(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1507)
