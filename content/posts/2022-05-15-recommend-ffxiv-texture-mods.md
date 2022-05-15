@@ -73,16 +73,16 @@ Like hands and feet, teeth need to be added on a model by model basis. Search xi
 
 [Reshade 5.1 with addons](https://reshade.me/releases/7951-5-1)
 
-RESHADE shader packs:
+**RESHADE shader packs:**
 
-When downloading  Reshade there are "effect packages" available in the installer I recommend:
+When downloading  RESHADE there are "effect packages" available in the installer I recommend:
 
 * [qUINT by Marty McFly (Pascal Glicher)](https://github.com/martymcmodding/qUINT)
 * [SweetFX by CeeJay.dk](https://github.com/CeeJayDK/SweetFX)
 * [Insane-Shaders by Lord of Lunacy](https://github.com/LordOfLunacy/Insane-Shaders)
 
-RESHADE paywalled:
+**RESHADE paywalled:**
 
-Pascal Glicher's shader betas are behind a $5 USD paywall. This is where you get "ray tracing" for FFXIV: reshade RTGI. Also some other neat shaders like Solaris, Regrade, and Clarity.
+Pascal Glicher's shader betas are behind a $5 USD paywall. This is where you get "[ray tracing](https://www.youtube.com/watch?v=ZOPgXRZSvzQ)" for FFXIV: RESHADE RTGI. Also some other neat shaders like Solaris, Regrade, and Clarity. If you can pay $15 USD for FFXIV you can probably buy one month's membership to get the shaders. They work for other games too. If you are too poor or morally opposed to paywalls, I imagine you can find them floating around somewhere.
 
 * [Pascal Glicher's Paetron](https://www.patreon.com/mcflypg)
