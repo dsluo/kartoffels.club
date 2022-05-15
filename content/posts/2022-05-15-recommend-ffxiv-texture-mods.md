@@ -11,49 +11,62 @@ tags: []
 showTableOfContents: false
 draft: false
 ---
-Recommended FFXIV mods:
+## Recommended FFXIV mods:
+
+
 These are mods I use to make the characters look better. All can be found on XIVmodarchive or FFXIV nexus.
 The number in front is the priority I set it at in penumbra. Priority determines which is loaded first, which is then overwritten by what is loaded later. Therefore, bigger number OVERWRITES smaller number.
 
+
 **Equipment:**
-1 Hrothgar and Viera Hats (best mod)
-0 NO CID GARLAND DECAL (removes ugly cid stickers from ironworks' gear)
+* 1 Hrothgar and Viera Hats (best mod)
+* 0 NO CID GARLAND DECAL (removes ugly cid stickers from ironworks' gear)
 
 **Body replacers:**
+
+
 Most older games don't have fingernails or toes due to model budgets and it bothers me. These HD bodies add them. Be aware all but Otopop have NSFW pages.
-4 The Body SE (SFW version) NSFW page
-1 Bibo+ (SFW version) NSFW page
-2 Bibo+ vanilla hands (no spa quality manicures)
-0 Otopop (SFW lalafel bodies) 
-4 hrBody (SFW version) NSFW page (Male Hrothgar and Roeg)
+* 4 The Body SE (SFW version) NSFW page
+* 1 Bibo+ (SFW version) NSFW page
+* 2 Bibo+ vanilla hands (no spa quality manicures)
+* 0 Otopop (SFW lalafel bodies) 
+* 4 hrBody (SFW version) NSFW page (Male Hrothgar and Roeg)
+
 
 **Hands/Feet replacers:**
+
+
 Since body parts are built into equipment in the game, you must patch all equipment to match the body, if you want it to show while wearing hand/feet pieces.
-0 naty's mani-pedi megapack
-0 the ultimate foot pack
-1 bibo+ mani-pedi megapack
-1 TBSE mani-pedi megapack
-3 otopop mani-pedi megapack
+* 0 naty's mani-pedi megapack
+* 0 the ultimate foot pack
+* 1 bibo+ mani-pedi megapack
+* 1 TBSE mani-pedi megapack
+* 3 otopop mani-pedi megapack
+
 
 **Face Textures:**
-3 Face Defined (HD faces)
-3 NPC Defined (HD NPC faces)
+* 3 Face Defined (HD faces)
+* 3 NPC Defined (HD NPC faces)
+
 
 **Eye Textures:**
-6 Bright Eyes
+* 6 Bright Eyes
+
 
 **Teeth:**
+
+
 Like hands and feet, teeth need to be added on a model by model basis. Search xivmodarchive and FFXIV nexus to collect them all! Ignore the (OLD) tag, it doesn't mean anything. unless you want reaper eyes.
-0 Illybites ([xivmodarchive search](https://www.xivmodarchive.com/search?sortby=rank&sortorder=desc&basic_text=illybites&types=1%2C3%2C7%2C9%2C12%2C15%2C2%2C4%2C8%2C10%2C14%2C11%2C5%2C13%2C6)) ([Male Viera](https://www.nexusmods.com/finalfantasy14/mods/1437) is on the Nexus)
+* 0 Illybites ([xivmodarchive search](https://www.xivmodarchive.com/search?sortby=rank&sortorder=desc&basic_text=illybites&types=1%2C3%2C7%2C9%2C12%2C15%2C2%2C4%2C8%2C10%2C14%2C11%2C5%2C13%2C6)) ([Male Viera](https://www.nexusmods.com/finalfantasy14/mods/1437) is on the Nexus)
 
 **My most perfect creations:**
-4 kart demihuman
-2 kart equipment recommended
-3 kart equipment updates
-0 kart face paint textures
-5 kart faces
-4 kart hair 4x compressed
-5 kart npcs
-1 kart weapons
-0 kart world textures
-1 kart world textures uncompressed
+ * 4 kart demihuman
+* 2 kart equipment recommended
+* 3 kart equipment updates
+* 0 kart face paint textures
+* 5 kart faces
+* 4 kart hair 4x compressed
+* 5 kart npcs
+* 1 kart weapons
+* 0 kart world textures
+* 1 kart world textures uncompressed
