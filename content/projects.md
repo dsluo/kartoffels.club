@@ -7,9 +7,8 @@ showDateUpdated: true
 showPagination: false
 showReadingTime: false
 ---
-# Elder scrolls stuff I'm proud of.
+# Elder scrolls Projects
 
-## **Elder Scrolls**
 
 ### **Skyrim Special Edition**
 
