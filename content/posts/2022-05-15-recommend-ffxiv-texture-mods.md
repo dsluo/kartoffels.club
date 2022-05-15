@@ -11,9 +11,9 @@ tags: []
 showTableOfContents: false
 draft: false
 ---
-## Recommended FFXIV mods:
+## Recommended FFXIV visual mods:
 
-These are mods I use to make the game look a bit more modern. I really enjoy the default asthetic of the game, so I don't change anything drastically from that. All can be found on XIVmodarchive or FFXIV nexus.
+These are mods I use to make the game look a bit more modern. I really enjoy the default aesthetic of the game, so I don't change anything drastically from that. All can be found on [XIVmodarchive](https://www.xivmodarchive.com) or [FFXIV nexus](https://www.nexusmods.com/finalfantasy14).
 The number in front is the priority I set it at in penumbra. Priority determines which is loaded first, which is then overwritten by what is loaded later. Therefore, bigger number OVERWRITES smaller number.
 
 **Equipment:**
