@@ -7,7 +7,7 @@ showDateUpdated: true
 showPagination: false
 showReadingTime: false
 ---
-# Elder scrolls Projects
+# Elder Scrolls Projects
 
 
 ### **Skyrim Special Edition**
