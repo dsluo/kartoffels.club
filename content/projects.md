@@ -7,17 +7,7 @@ showDateUpdated: true
 showPagination: false
 showReadingTime: false
 ---
-# Things that took awhile to do, or are ongoing.
-
-## **FFXIV**
-
-FFXIV Upscaled Textures
-
-* [Upscaled World Textures](https://www.nexusmods.com/finalfantasy14/mods/1505)
-* [Upscaled Armors Equipment Textures](https://www.nexusmods.com/finalfantasy14/mods/1442)
-* [Upscaled NPC Textures](https://www.nexusmods.com/finalfantasy14/mods/1507)
-* [Upscaled Chocobo](https://www.nexusmods.com/finalfantasy14/mods/1486)
-* [Upscaled Weapon Textures](https://www.nexusmods.com/finalfantasy14/mods/1479)
+# Elder scrolls stuff I'm proud of.
 
 ## **Elder Scrolls**
 
@@ -36,7 +26,7 @@ Skyrim Upscaled Textures (SSEUT)
 
 ### **Morrowind**
 
-**[Facelift](https://www.nexusmods.com/morrowind/mods/47617)**
+[Facelift](https://www.nexusmods.com/morrowind/mods/47617)
 
 [Races Redone - Hair and Helmet Fix](https://www.nexusmods.com/morrowind/mods/47017)
 
