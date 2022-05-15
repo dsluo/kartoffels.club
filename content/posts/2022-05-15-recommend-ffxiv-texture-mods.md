@@ -11,7 +11,33 @@ tags: []
 showTableOfContents: false
 draft: false
 ---
+## Recommended FFXIV programs:
+
+* [xivlauncher + dalamund](https://github.com/goatcorp/FFXIVQuickLauncher)
+* penumbra - dalamud plugin ([install video](https://www.youtube.com/watch?v=J6T-Ro-WOnM))
+* RESHADE
+
+> **RESHADE:**
+>
+> [Reshade 5.1 with addons](https://reshade.me/releases/7951-5-1)
+>
+> **RESHADE shader packs:**
+>
+> When downloading RESHADE there are "effect packages" available in the installer I recommend:
+>
+> * [qUINT by Marty McFly (Pascal Glicher)](https://github.com/martymcmodding/qUINT)
+> * [SweetFX by CeeJay.dk](https://github.com/CeeJayDK/SweetFX)
+> * [Insane-Shaders by Lord of Lunacy](https://github.com/LordOfLunacy/Insane-Shaders)
+>
+> **RESHADE paywalled:**
+>
+> Pascal Glicher's shader betas are behind a $5 USD paywall. This is where you get "[ray tracing](https://www.youtube.com/watch?v=ZOPgXRZSvzQ)" for FFXIV: RESHADE RTGI. Also some other neat shaders like Solaris, Regrade, and Clarity. If you can pay $15 USD for FFXIV you can probably buy one month's membership to get the shaders. They work for other games too. If you are too poor or morally opposed to paywalls, I imagine you can find them floating around somewhere.
+>
+> * [Pascal Glicher's Paetron](https://www.patreon.com/mcflypg)
+
 ## Recommended FFXIV visual mods:
+
+All mods below are installed using the penumbra plugin for dalamud/XIVLauncher. I really, really, really recommend using penumbra to control your mods instead of FFXIV TexTools. TexTools is only necessary if YOU want to make mods or edit mods yourself.
 
 These are mods I use to make the game look a bit more modern. I really enjoy the default aesthetic of the game, so I don't change anything drastically from that. All can be found on [XIVmodarchive](https://www.xivmodarchive.com) or [FFXIV nexus](https://www.nexusmods.com/finalfantasy14).
 The number in front is the priority I set it at in penumbra. Priority determines which is loaded first, which is then overwritten by what is loaded later. Therefore, bigger number OVERWRITES smaller number.
@@ -68,21 +94,3 @@ Like hands and feet, teeth need to be added on a model by model basis. Search xi
 * 1 kart weapons
 * 0 kart world textures
 * 1 kart world textures uncompressed
-
-**RESHADE:**
-
-[Reshade 5.1 with addons](https://reshade.me/releases/7951-5-1)
-
-**RESHADE shader packs:**
-
-When downloading  RESHADE there are "effect packages" available in the installer I recommend:
-
-* [qUINT by Marty McFly (Pascal Glicher)](https://github.com/martymcmodding/qUINT)
-* [SweetFX by CeeJay.dk](https://github.com/CeeJayDK/SweetFX)
-* [Insane-Shaders by Lord of Lunacy](https://github.com/LordOfLunacy/Insane-Shaders)
-
-**RESHADE paywalled:**
-
-Pascal Glicher's shader betas are behind a $5 USD paywall. This is where you get "[ray tracing](https://www.youtube.com/watch?v=ZOPgXRZSvzQ)" for FFXIV: RESHADE RTGI. Also some other neat shaders like Solaris, Regrade, and Clarity. If you can pay $15 USD for FFXIV you can probably buy one month's membership to get the shaders. They work for other games too. If you are too poor or morally opposed to paywalls, I imagine you can find them floating around somewhere.
-
-* [Pascal Glicher's Paetron](https://www.patreon.com/mcflypg)
