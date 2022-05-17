@@ -10,11 +10,7 @@ draft: false
 ---
 **BETA. Upscaled World Textures. Currently covers all ARR textures and player housing.** 
 
-
-
 ## **[PREVIEW VIDEO](https://www.youtube.com/watch?v=fSO48HBqFyA)**
-
-
 
 ## **What is a texture upscale?**
 
@@ -37,7 +33,7 @@ Smart computer look at picture and make it high resolution.
 
 ##### **bg** is divided into:
 
-* **ffxiv** - textures that are local to ARR zones, and available to everyone within ARR.
+* **ffxiv** - textures that are local to ARR zones.
 * **ex1** - textures that are local to Heavensward expansion zones.
 * **ex2** - textures that are local to Stormblood expansion zones.
 * **ex3** - textures that are local to Shadowbringers expansion zones.
