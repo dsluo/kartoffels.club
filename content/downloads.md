@@ -11,7 +11,7 @@ showReadingTime: false
 
 **UPSCALED WORLD TEXTURES**
 
-[(Main Post Link)](https://kartoffels.club/posts/2022-05-17-upscaled-world-textures/)
+[(Main Page Link)](https://kartoffels.club/posts/2022-05-17-upscaled-world-textures/)
 
 **UPSCALED DEMIHUMANS TEXTURES**
 
