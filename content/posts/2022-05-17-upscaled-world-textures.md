@@ -8,7 +8,13 @@ categories:
 showTableOfContents: false
 draft: false
 ---
-**BETA. Upscaled World Textures. Currently covers almost all ARR textures and player housing.** 
+**BETA. Upscaled World Textures. Currently covers all ARR textures and player housing.** 
+
+
+
+## **[PREVIEW VIDEO](https://www.youtube.com/watch?v=fSO48HBqFyA)**
+
+
 
 ## **What is a texture upscale?**
 
