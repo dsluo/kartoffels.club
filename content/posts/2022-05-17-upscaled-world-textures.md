@@ -6,7 +6,7 @@ categories:
   - downloads
   - ffxiv
 showTableOfContents: false
-draft: true
+draft: false
 ---
 **BETA. Upscaled World Textures. Currently covers almost all ARR textures and player housing.** 
 
@@ -43,8 +43,6 @@ Smart computer look at picture and make it high resolution.
 * **nature** - water, moon phases weather, precipitation particle effect, cloud, and star textures.
 * **world** - common world textures that are utilized by all zones.
 
-
-
 ## Downloads:
 
 Downloads are provided currently as a torrent. This requires using a torrent client. I recommend [qbittorent](https://www.qbittorrent.org).
@@ -61,7 +59,7 @@ Optional version that only covers housing textures. This comes with bgcommon/hou
 
 kart world textures housing only v0.9 ([Torrent Magnet Link](magnet:?xt=urn:btih:c6a28befa963bad4f65d263ee45977390d56d1be&dn=kart%20world%20textures%20only%20housing&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.port443.xyz:6969/announce&tr=http://tracker3.itzmx.com:6961/announce&tr=udp://tracker.moeking.me:6969/announce&tr=http://vps02.net.orel.ru:80/announce&tr=http://tracker.openzim.org:80/announce&tr=udp://tracker.skynetcloud.tk:6969/announce&tr=https://1.tracker.eu.org:443/announce&tr=https://3.tracker.eu.org:443/announce&tr=http://re-tracker.uz:80/announce&tr=https://tracker.parrotsec.org:443/announce&tr=udp://explodie.org:6969/announce&tr=udp://tracker.filemail.com:6969/announce&tr=udp://tracker.nyaa.uk:6969/announce&tr=udp://retracker.netbynet.ru:2710/announce&tr=http://tracker.gbitt.info:80/announce&tr=http://tracker2.dler.org:80/announce))
 
-#### HEAVENSWARD WORLD TEXTURES: 
+#### HEAVENSWARD WORLD TEXTURES:
 
 Covers bg/ex1, Heavensward. Coming Soon.
 
@@ -77,7 +75,33 @@ Covers bg/ex3, Shadowbringers. Coming Soon.
 
 Covers bg/ex4, Endwalker. Coming Soon.
 
-**Postword**:
+### INSTALLING:
+
+**Installing Penumbra:**
+
+Firstly you must have [XIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher/releases) (which is amazing and you probably already have)
+
+1. Login to the game, press ESC, click "Dalamud Settings"
+2. Add the following URL as a "[Custom Plugin Repository](https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json)" 
+3. Click "Save and Close"
+4. Press ESC and click "Dalamud Plugins"
+5. Find "Penumbra" under "Available Plugins" and hit install
+
+[YouTube Video: Installing my mods with Penumbra.](https://www.youtube.com/watch?v=J6T-Ro-WOnM)
+
+#### **Install:**
+
+1. Unpack the "kart world textures" folder into penumbra mods folder.
+2. Optional (Stormblood). Download from Nexus, drop into penumbra folder. Say "NO" to overwrites.
+
+### **Known Issue:**
+
+\
+At a very far distance, lines may appear on some distant terrain. I am working on a fix for this. In the meantime to reduce appearance of lines: ***Set anisotropic filtering to 16x in the game's graphics settings.***
+
+**[Help me find lines, watch this video to learn more.](https://www.youtube.com/watch?v=dpw12u1zrPY&feature=emb_title)**
+
+### **Postword**:
 
 My goal is to:
 
