@@ -9,6 +9,12 @@ showReadingTime: false
 ---
 # **FFXIV**
 
+
+
+## [Preview Video](https://www.youtube.com/watch?v=fSO48HBqFyA)
+
+
+
 **UPSCALED WORLD TEXTURES**
 
 [(Main Page Link)](https://kartoffels.club/posts/2022-05-17-upscaled-world-textures/)
