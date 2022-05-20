@@ -47,13 +47,21 @@ Smart computer look at picture and make it high resolution.
 
 ## Downloads:
 
-Downloads are provided currently as a torrent. This requires using a torrent client. I recommend [qbittorent](https://www.qbittorrent.org).
+Downloads are provided: 
+
+* **Torrent**. This requires using a torrent client. I recommend [qbittorent](https://www.qbittorrent.org).
+* **Nexus Mods download**. This requires a free Nexus Mods account. I recommend shelling out for premium as free users are capped at 2MB/s down. If you can't/won't pay for premium, I recommend using a download protector like [JDownloader2](https://jdownloader.org/jdownloader2) so you don't get a corrupted file after 10 hours.
 
 #### UPSCALED MAIN WORLD TEXTURES:
 
 Covers the bg/ffxiv textures and bgcommon textures. This is the main file.
 
 kart world textures v0.9 [(Torrent Magnet Link)](magnet:?xt=urn:btih:53eab8c1318a8682a417a1add131469a7ae4901b&dn=kart%20world%20textures%200.9.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Ftracker.blackunicorn.xyz%3A6)
+
+kart world textures v0.9 ([Nexus Link](https://www.nexusmods.com/finalfantasy14/mods/1505?tab=files)) 
+
+* Main World Textures Pt 1
+* Main Word Textures Pt 2
 
 #### UPSCALED HOUSING TEXTURES ONLY:
 
