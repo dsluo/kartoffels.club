@@ -13,11 +13,9 @@ showReadingTime: false
 
 ## [Recommended Mods](https://kartoffels.club/posts/2022-05-15-recommend-ffxiv-texture-mods/)
 
-
-
 # MY MODS
 
-**[](https://kartoffels.club/posts/2022-05-15-recommend-ffxiv-texture-mods/)UPSCALED WORLD TEXTURES**
+[](https://kartoffels.club/posts/2022-05-15-recommend-ffxiv-texture-mods/)**UPSCALED WORLD TEXTURES**
 
 [(Main Page Link)](https://kartoffels.club/posts/2022-05-17-upscaled-world-textures/)
 
@@ -25,7 +23,7 @@ showReadingTime: false
 
 [(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1570)
 
-[](https://www.nexusmods.com/finalfantasy14/mods/1570)**UPSCALED ARMOR TEXTURES**
+[](https://www.nexusmods.com/finalfantasy14/mods/1570)**UPSCALED EQUIPMENT TEXTURES**
 
 [(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1584)
 
