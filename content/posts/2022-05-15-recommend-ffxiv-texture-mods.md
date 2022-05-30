@@ -19,7 +19,7 @@ draft: false
 
 > **RESHADE:**
 >
-> [Reshade 5.2.1 with addons](https://reshade.me/downloads/ReShade_Setup_5.2.1_Addon.exe)
+> * [Reshade 5.2.1 with addons](https://reshade.me/downloads/ReShade_Setup_5.2.1_Addon.exe)
 >
 > **RESHADE shader packs:**
 >
@@ -37,7 +37,7 @@ draft: false
 >
 > **FFXIV UI RESHADE fix:**
 >
-> [ReshadeEffectShaderToggler](https://github.com/4lex4nder/ReshadeEffectShaderToggler/releases/tag/1.0.0)
+> * [ReshadeEffectShaderToggler](https://github.com/4lex4nder/ReshadeEffectShaderToggler/releases/tag/1.0.0)
 >
 > Alex's fix to prevent reshade from applying to the UI in a less borked way than a mask. Works out of the box. Just dump the "ReshadeEffectToggler.addon" (ReshadeEffectToggler_x64.zip) and the "ReshadeEffectShaderToggler.ini" (FFXIVPresetIni.zip)
 
@@ -73,10 +73,7 @@ Since body parts are built into equipment in the game, you must patch all equipm
 * 1 TBSE mani-pedi megapack (nexus)
 * 3 otopop mani-pedi megapack
 * 0 Aymeric's Attractive Fingers
-*
-
-**Face Textures:**
-
+* **Face Textures:**
 * 3 Face Defined (nexus)
 * 3 NPC Defined (nexus)
 
