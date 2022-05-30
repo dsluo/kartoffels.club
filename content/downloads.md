@@ -11,7 +11,13 @@ showReadingTime: false
 
 ## [Preview Video](https://www.youtube.com/watch?v=fSO48HBqFyA)
 
-**UPSCALED WORLD TEXTURES**
+## [Recommended Mods](https://kartoffels.club/posts/2022-05-15-recommend-ffxiv-texture-mods/)
+
+
+
+# MY MODS
+
+**[](https://kartoffels.club/posts/2022-05-15-recommend-ffxiv-texture-mods/)UPSCALED WORLD TEXTURES**
 
 [(Main Page Link)](https://kartoffels.club/posts/2022-05-17-upscaled-world-textures/)
 
