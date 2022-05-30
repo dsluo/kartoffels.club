@@ -9,11 +9,7 @@ showReadingTime: false
 ---
 # **FFXIV**
 
-
-
 ## [Preview Video](https://www.youtube.com/watch?v=fSO48HBqFyA)
-
-
 
 **UPSCALED WORLD TEXTURES**
 
@@ -42,3 +38,7 @@ showReadingTime: false
 [](https://www.nexusmods.com/finalfantasy14/mods/1584)**UPSCALED NPC TEXTURES**
 
 [(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1507)
+
+**UPSCALED ACCESSORY**
+
+([Nexus Link](https://www.nexusmods.com/finalfantasy14/mods/1610/))
