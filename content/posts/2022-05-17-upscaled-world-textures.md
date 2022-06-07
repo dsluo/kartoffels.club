@@ -55,10 +55,9 @@ Downloads are provided:
 
 Covers the bg/ffxiv textures and bgcommon textures. This is the main file.
 
-kart world textures v0.9 ([Nexus Link](https://www.nexusmods.com/finalfantasy14/mods/1505?tab=files)) 
-
 * Main World Textures Pt 1
 * Main Word Textures Pt 2
+* Main World Textures Uncompressed
 
 #### UPSCALED HOUSING TEXTURES ONLY:
 
@@ -72,7 +71,10 @@ Covers bg/ex1, Heavensward. Coming Soon.
 
 #### STORMBLOOD WORLD TEXTURES:
 
-Stormblood textures pt 1, Stormblood textures pt 2 [(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1505)
+Covers bg/ex2, Stormblood.
+
+* Stormblood World Textures
+* Stormblood World Textures Uncompressed
 
 #### SHADOWBRINGERS WORLD TEXTURES:
 
@@ -80,7 +82,9 @@ Covers bg/ex3, Shadowbringers. Coming Soon.
 
 #### ENDWALKER WORLD TEXTURES:
 
-Covers bg/ex4, Endwalker. Coming Soon.
+Covers bg/ex4, Endwalker.
+
+* Endwalker World Textures
 
 ### INSTALLING:
 
@@ -98,8 +102,7 @@ Firstly you must have [XIVQuickLauncher](https://github.com/goatcorp/FFXIVQuic
 
 #### **Install:**
 
-1. Unpack the "kart world textures" folder into penumbra mods folder.
-2. Optional (Stormblood). Download from Nexus, drop into penumbra folder. Say "NO" to overwrites.
+1. Watch Video
 
 ### **Known Issue:**
 
