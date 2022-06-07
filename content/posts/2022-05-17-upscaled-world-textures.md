@@ -8,8 +8,6 @@ categories:
 showTableOfContents: false
 draft: false
 ---
-**BETA. Upscaled World Textures. Currently covers all ARR textures and player housing.** 
-
 ## **[PREVIEW VIDEO](https://www.youtube.com/watch?v=fSO48HBqFyA)**
 
 ## **What is a texture upscale?**
@@ -63,7 +61,7 @@ Covers the bg/ffxiv textures and bgcommon textures. This is the main file.
 
 Optional version that only covers housing textures. This comes with bgcommon/hou and relevant bg/ffxiv housing subdivision zones (wards.)
 
-kart world textures housing only v0.9 ([Nexus Link](https://www.nexusmods.com/finalfantasy14/mods/1505?tab=files)) 
+Temp Unavailable
 
 #### HEAVENSWARD WORLD TEXTURES:
 
