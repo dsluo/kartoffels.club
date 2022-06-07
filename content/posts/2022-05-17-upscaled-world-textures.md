@@ -98,7 +98,7 @@ Firstly you must have [XIVQuickLauncher](https://github.com/goatcorp/FFXIVQuic
 4. Press ESC and click "Dalamud Plugins"
 5. Find "Penumbra" under "Available Plugins" and hit install
 
-[YouTube Video: Installing my mods with Penumbra.](https://www.youtube.com/watch?v=J6T-Ro-WOnM)
+[YouTube Video: Installing my mods with Penumbra.](https://youtu.be/5kxvaeE4Ao4)
 
 #### **Install:**
 
