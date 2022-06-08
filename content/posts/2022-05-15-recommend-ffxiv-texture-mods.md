@@ -83,9 +83,9 @@ Since body parts are built into equipment in the game, you must patch all equipm
 
 **Teeth:**
 
-Like hands and feet, teeth need to be added on a model by model basis. Search xivmodarchive and FFXIV nexus to collect them all! Ignore the (OLD) tag, it doesn't mean anything. unless you want reaper eyes. I have a [collection pack on the Nexus with all the Player teeth and some NPC teeth.](https://www.nexusmods.com/finalfantasy14/mods/1507?tab=files)
+Like hands and feet, teeth need to be added on a model by model basis. Search xivmodarchive and FFXIV nexus to collect them all! I have a [collection pack on the Nexus with all the Player teeth and some NPC teeth.](https://www.nexusmods.com/finalfantasy14/mods/1613)
 
-* 0 Illybites ([xivmodarchive search](https://www.xivmodarchive.com/search?sortby=rank&sortorder=desc&basic_text=illybites&types=1%2C3%2C7%2C9%2C12%2C15%2C2%2C4%2C8%2C10%2C14%2C11%2C5%2C13%2C6)) ([Male Viera](https://www.nexusmods.com/finalfantasy14/mods/1437) is on the Nexus)
+* 0 Illybites ([xivmodarchive search](https://www.xivmodarchive.com/search?sortby=rank&sortorder=desc&basic_text=illybites&types=1%2C3%2C7%2C9%2C12%2C15%2C2%2C4%2C8%2C10%2C14%2C11%2C5%2C13%2C6))
 
 **My most perfect creations:**
 
