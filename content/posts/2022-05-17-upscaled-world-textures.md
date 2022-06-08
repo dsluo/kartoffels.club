@@ -47,9 +47,9 @@ Smart computer look at picture and make it high resolution.
 
 Downloads are provided: 
 
-* **Nexus Mods download**. This requires a free Nexus Mods account. I recommend shelling out for premium as free users are capped at 2MB/s down. If you can't/won't pay for premium, I recommend using a download protector like [JDownloader2](https://jdownloader.org/jdownloader2) so you don't get a corrupted file after 10 hours.
+* [On my Nexus Mods Page](https://www.nexusmods.com/finalfantasy14/mods/1505). This requires a free Nexus Mods account. I recommend shelling out for premium as free users are capped at 2MB/s down. If you can't/won't pay for premium, I recommend using a download protector like [JDownloader2](https://jdownloader.org/jdownloader2) so you don't get a corrupted file after 10 hours.
 
-#### UPSCALED MAIN WORLD TEXTURES:
+#### [UPSCALED MAIN WORLD TEXTURES](https://www.nexusmods.com/finalfantasy14/mods/1505):
 
 Covers the bg/ffxiv textures and bgcommon textures. This is the main file.
 
@@ -67,7 +67,7 @@ Temp Unavailable
 
 Covers bg/ex1, Heavensward. Coming Soon.
 
-#### STORMBLOOD WORLD TEXTURES:
+#### [STORMBLOOD WORLD TEXTURES](https://www.nexusmods.com/finalfantasy14/mods/1505):
 
 Covers bg/ex2, Stormblood.
 
@@ -78,7 +78,7 @@ Covers bg/ex2, Stormblood.
 
 Covers bg/ex3, Shadowbringers. Coming Soon.
 
-#### ENDWALKER WORLD TEXTURES:
+#### [ENDWALKER WORLD TEXTURES](https://www.nexusmods.com/finalfantasy14/mods/1505):
 
 Covers bg/ex4, Endwalker.
 
@@ -98,9 +98,7 @@ Firstly you must have [XIVQuickLauncher](https://github.com/goatcorp/FFXIVQuic
 
 [YouTube Video: Installing my mods with Penumbra.](https://youtu.be/5kxvaeE4Ao4)
 
-#### **Install:**
 
-1. Watch Video
 
 ### **Known Issue:**
 
