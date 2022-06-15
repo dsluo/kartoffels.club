@@ -37,7 +37,7 @@ draft: false
 >
 > **FFXIV UI RESHADE fix:**
 >
-> * [ReshadeEffectShaderToggler](https://github.com/4lex4nder/ReshadeEffectShaderToggler/releases/tag/1.0.0)
+> * [ReshadeEffectShaderToggler](https://github.com/4lex4nder/ReshadeEffectShaderToggler/releases)
 >
 > Alex's fix to prevent reshade from applying to the UI in a less borked way than a mask. Works out of the box. Just dump the "ReshadeEffectToggler.addon" (ReshadeEffectToggler_x64.zip) and the "ReshadeEffectShaderToggler.ini" (FFXIVPresetIni.zip)
 
