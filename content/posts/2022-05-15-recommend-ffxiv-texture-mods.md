@@ -8,7 +8,7 @@ categories:
   - Mods
   - ""
 tags: []
-showTableOfContents: false
+showTableOfContents: true
 draft: false
 ---
 ## Recommended FFXIV programs:
@@ -48,55 +48,85 @@ All mods below are installed using the penumbra plugin for dalamud/XIVLauncher. 
 These are mods I use to make the game look a bit more modern. I really enjoy the default aesthetic of the game, so I don't change anything drastically from that. All can be found on [XIVmodarchive](https://www.xivmodarchive.com) or [FFXIV nexus](https://www.nexusmods.com/finalfantasy14).
 The number in front is the priority I set it at in penumbra. Priority determines which is loaded first, which is then overwritten by what is loaded later. Therefore, bigger number OVERWRITES smaller number.
 
-**Equipment:**
+#### **Equipment:**
 
-* 1 Hrothgar and Viera Hats (nexus)
-* 0 NO CID GARLAND DECAL (nexus)
+* 1 - Hrothgar and Viera Hats (nexus)
+* 0 - Hats & Helmets for Viera Recommend Type
+* 0 - NO CID GARLAND DECAL (nexus)
 
-**Body replacers:**
+#### **Body replacers:**
 
 Most older games don't have fingernails or toes due to model budgets and it bothers me. These HD bodies add them. Be aware all but Otopop have NSFW pages.
 
-* 4 The Body SE (SFW version) NSFW page
-* 1 Bibo+ (SFW version) NSFW page
-* 2 Bibo+ vanilla hands (no spa quality manicures)
-* 0 Otopop (SFW lalafel bodies) 
-* 4 hrBody (SFW version) NSFW page (Male Hrothgar and Roeg)
+* 3 - The Body SE (SFW version) NSFW page
+* 1 - Bibo+ (SFW version) NSFW page
+* 2 - Bibo+ vanilla hands (no spa quality manicures)
+* 0 - Otopop (SFW lalafel bodies) 
+* 2 - hrBody (SFW version) NSFW page (Male Hrothgar and Roeg)
 
-**Hands/Feet replacers:**
+#### **Hands/Feet replacers:**
 
 Since body parts are built into equipment in the game, you must patch all equipment to match the body, if you want it to show while wearing hand/feet pieces.
 
-* 0 koneko mani pedi mega-pack
-* 0 the ultimate foot pack
-* 1 bibo+ mani-pedi megapack (nexus)
-* 1 TBSE mani-pedi megapack (nexus)
-* 3 otopop mani-pedi megapack
-* 0 Aymeric's Attractive Fingers
-* **Face Textures:**
-* 3 Face Defined (nexus)
-* 3 NPC Defined (nexus)
+* 2 - koneko mani pedi mega-pack
+* 0 - the ultimate foot pack
+* 3 - bibo+ mani-pedi megapack (nexus)
+* 1  - TBSE mani-pedi megapack (nexus)
+* 3 - otopop mani-pedi megapack
 
-**Eye Textures:**
+#### **Face Textures:**
 
-* 6 Bright Eyes
+* 1 - Face Defined (nexus)
+* 1 - NPC Defined (nexus)
 
-**Teeth:**
+#### **Eye Textures:**
 
-Like hands and feet, teeth need to be added on a model by model basis. Search xivmodarchive and FFXIV nexus to collect them all! I have a [collection pack on the Nexus with all the Player teeth and some NPC teeth.](https://www.nexusmods.com/finalfantasy14/mods/1613)
+* 2 - Bright Eyes
 
-* 0 Illybites ([xivmodarchive search](https://www.xivmodarchive.com/search?sortby=rank&sortorder=desc&basic_text=illybites&types=1%2C3%2C7%2C9%2C12%2C15%2C2%2C4%2C8%2C10%2C14%2C11%2C5%2C13%2C6))
+#### **Teeth:**
 
-**My most perfect creations:**
+Like hands and feet, teeth need to be added on a model by model basis. Search xivmodarchive and FFXIV nexus to collect them all!
 
-* 4 kart demihuman
-* 2 kart equipment recommended
-* 3 kart equipment updates
-* 0 kart face paint textures
-* 6 kart NPC teeth
-* 5 kart faces
-* 4 kart hair 4x compressed
-* 5 kart npcs
-* 1 kart weapons
-* 0 kart world textures
-* 1 kart world textures uncompressed
+* 0 - Illybites Garlean Trio
+* 0 - Illybites for the Eorzean Alliance
+* 0 - Illybites for the Twins
+* 0 - Illybites Lorfangs - All Female Keeper Faces
+* 0 - Illybites Lorfangs - All Male Keeper Faces
+* 0 - Lalibites (also download fix from my illybites page) 
+
+#### **Beloved NPC fixes/improvements:**
+
+* 0 - Twins Neckseam Fix
+* 0 - Crystal Exarch TB2ified (nexus)
+* 0 - Male Miqo Relaxed Default Idle
+* 1 - Aymeric +TBSE + Illybites (download from my illybites page)
+
+#### **My most perfect creations:**
+
+* 1 - compiled illybites
+* 0 - kart accessory
+* 2 - kart demihuman
+* 4 - kart equipment recommended
+* 5 - kart equipment updated
+* 0 - kart face paint textures
+* 4 - kart faces
+* 2 - kart hair 4x compressed
+* 0 - kart minions and pets
+* 1 - kart monsters
+* 0 - kart npc illybites
+* 5 - kart npcs
+* 5 - kart player mods illybites
+* 0 - kart weapons
+* kart world textures
+* 0 - kart world textures endwalker
+* 0 - kart world textures stormblood
+* 1 - kart world textures uncompressed
+* 1 - kart world textures uncompressed stormblood
+
+
+
+#### My character the special snowflake~:
+
+In Penumbra, using the "special collection" under the "collections" tab, you can set it so only your character uses certain mods, making you the most unique special snowflake! Beyond this, if your computer performance is poor, you can use my upscales only on you. Because who cares about anyone else?
+
+In example my character uses the "Warrior of Light" model which you can get on my discord.
