@@ -1,7 +1,7 @@
 ---
 title: Recommend FFXIV Texture Mods
 date: 2022-05-15T04:58:44.373Z
-description: Recommend FFXIV Mods
+description: Recommend FFXIV Visual Mods
 categories:
   - FFXIV
   - Recommendation
