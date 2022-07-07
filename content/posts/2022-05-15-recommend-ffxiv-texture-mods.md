@@ -123,10 +123,10 @@ Like hands and feet, teeth need to be added on a model by model basis. Search xi
 * 1 - kart world textures uncompressed
 * 1 - kart world textures uncompressed stormblood
 
-
-
 #### My character the special snowflake~:
 
 In Penumbra, using the "special collection" under the "collections" tab, you can set it so only your character uses certain mods, making you the most unique special snowflake! Beyond this, if your computer performance is poor, you can use my upscales only on you. Because who cares about anyone else?
 
 In example my character uses the "Warrior of Light" model which you can get on my discord.
+
+![](/static/img/ffxiv_dx11-2022-07-01-13-25-58.png "WOL and smol")
