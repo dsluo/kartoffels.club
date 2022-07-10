@@ -16,8 +16,6 @@ draft: true
 ---
 In progress list of programs I use for image processing. Just copy any of these into google, they should be the first or second link.
 
-
-
 ##### Programming:
 
 Python 3
@@ -31,8 +29,6 @@ Windows Terminal
 
 ImageMagick
 
-
-
 ##### Image Viewing/Editing/Saving:
 
 Photoshop ($)
@@ -45,13 +41,13 @@ Sagethumbs
 
 NVidia Texture Tools Exporter
 
-Superresolution (Upscaling Programs)
+[My script dumpster](https://github.com/emarron/script_dumpster)
+
+##### Superresolution (Upscaling Programs):
 
 chaiNNer github
 
 cupscale github
-
-
 
 ##### Superresolution Models:
 
@@ -60,8 +56,6 @@ GFPGAN github
 GPEN github
 
 Upscale Wiki Models
-
-
 
 ##### MISC:
 
