@@ -35,7 +35,9 @@ Photoshop ($)
 
 * NVidia Texture Tools Exporter Plugin
 
-Irfanviewer
+[Irfanviewer 64-bit](https://www.irfanview.com/64bit.htm)
+
+* [Irfanviewer Plug-ins](https://www.fosshub.com/IrfanView.html) 64-bit
 
 Sagethumbs
 
