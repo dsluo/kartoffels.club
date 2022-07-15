@@ -12,7 +12,7 @@ tags:
   - upscaling
   - ""
 showTableOfContents: false
-draft: true
+draft: false
 ---
 In progress list of programs I use for image processing. Just copy any of these into google, they should be the first or second link.
 
@@ -41,7 +41,7 @@ Photoshop ($)
 
 Sagethumbs
 
-NVidia Texture Tools Exporter
+NVidia Texture Tools Exporter Standalone
 
 [My script dumpster](https://github.com/emarron/script_dumpster)
 
