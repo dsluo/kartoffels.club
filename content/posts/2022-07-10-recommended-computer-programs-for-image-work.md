@@ -1,8 +1,7 @@
 ---
 title: Recommended Computer Programs for Image Work
 date: 2022-07-10T15:34:03.646Z
-description: In progress list of programs I use for image processing. Just copy
-  any of these into google, they should be the first or second link.
+description: weqrgqewrgqweg
 categories:
   - recommendation
   - upscaling
