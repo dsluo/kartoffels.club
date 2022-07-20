@@ -5,7 +5,7 @@ description: weqgqwegqweg
 categories:
   - downloads
   - ffxiv
-showTableOfContents: false
+showTableOfContents: true
 draft: false
 ---
 ## **[PREVIEW VIDEO](https://www.youtube.com/watch?v=fSO48HBqFyA)**
@@ -15,6 +15,8 @@ draft: false
 Smart computer look at picture and make it high resolution.
 
 [3 minute video that explains it really fast with pretty pictures.](https://www.youtube.com/watch?v=Fix6u4pksrg)
+
+
 
 ## **What are world textures?**
 
@@ -43,6 +45,8 @@ Smart computer look at picture and make it high resolution.
 * **nature** - water, moon phases weather, precipitation particle effect, cloud, and star textures.
 * **world** - common world textures that are utilized by all zones.
 
+
+
 ## Downloads:
 
 Downloads are provided: 
@@ -55,13 +59,6 @@ Covers the bg/ffxiv textures and bgcommon textures. This is the main file.
 
 * Main World Textures Pt 1
 * Main Word Textures Pt 2
-* Main World Textures Uncompressed
-
-#### UPSCALED HOUSING TEXTURES ONLY:
-
-Optional version that only covers housing textures. This comes with bgcommon/hou and relevant bg/ffxiv housing subdivision zones (wards.)
-
-Temp Unavailable
 
 #### HEAVENSWARD WORLD TEXTURES:
 
@@ -72,7 +69,6 @@ Covers bg/ex1, Heavensward. Coming Soon.
 Covers bg/ex2, Stormblood.
 
 * Stormblood World Textures
-* Stormblood World Textures Uncompressed
 
 #### SHADOWBRINGERS WORLD TEXTURES:
 
@@ -83,6 +79,8 @@ Covers bg/ex3, Shadowbringers. Coming Soon.
 Covers bg/ex4, Endwalker.
 
 * Endwalker World Textures
+
+
 
 ### INSTALLING:
 
@@ -99,13 +97,6 @@ Firstly you must have [XIVQuickLauncher](https://github.com/goatcorp/FFXIVQuic
 [YouTube Video: Installing my mods with Penumbra.](https://youtu.be/5kxvaeE4Ao4)
 
 
-
-### **Known Issue:**
-
-\
-At a very far distance, lines may appear on some distant terrain. I am working on a fix for this. In the meantime to reduce appearance of lines: ***Set anisotropic filtering to 16x in the game's graphics settings.***
-
-**[Help me find lines, watch this video to learn more.](https://www.youtube.com/watch?v=dpw12u1zrPY&feature=emb_title)**
 
 ### **Postword**:
 
