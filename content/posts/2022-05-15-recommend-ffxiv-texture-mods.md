@@ -129,4 +129,4 @@ In Penumbra, using the "special collection" under the "collections" tab, you can
 
 In example my character uses the "Warrior of Light" model which you can get on my discord.
 
-![](/static/img/ffxiv_dx11-2022-07-01-13-25-58.png "WOL and smol")
+![](https://i.imgur.com/35Nd67B.png)
