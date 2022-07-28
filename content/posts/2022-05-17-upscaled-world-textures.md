@@ -47,7 +47,8 @@ Smart computer look at picture and make it high resolution.
 
 Downloads are provided: 
 
-* [On my Nexus Mods Page](https://www.nexusmods.com/finalfantasy14/mods/1505). This requires a free Nexus Mods account. I recommend shelling out for premium as free users are capped at 2MB/s down. If you can't/won't pay for premium, I recommend using a download protector like [JDownloader2](https://jdownloader.org/jdownloader2) so you don't get a corrupted file after 10 hours.
+* [On my Nexus Mods Page](https://www.nexusmods.com/finalfantasy14/mods/1505). This requires a free Nexus Mods account. I recommend shelling out for premium as free users are capped at 2MB/s down. If you can't/won't pay for premium, I recommend using a download protector like [JDownloader2](https://jdownloader.org/jdownloader2) so you don't get a corrupted file after 10 hours. 
+* By darkarchon on my discord. They are under #releases. These are faster if you don't have premium. However, these are generously provided at will by dark, and he can remove these for any or no reason at all. You are blessed that he provides them at all. So don't pester him if it isn't instantly updated or is taken down.
 
 #### [UPSCALED MAIN WORLD TEXTURES](https://www.nexusmods.com/finalfantasy14/mods/1505):
 
@@ -56,9 +57,9 @@ Covers the bg/ffxiv textures and bgcommon textures. This is the main file.
 * Main World Textures Pt 1
 * Main Word Textures Pt 2
 
-#### HEAVENSWARD WORLD TEXTURES:
+#### [HEAVENSWARD WORLD TEXTURES](https://www.nexusmods.com/finalfantasy14/mods/1505):
 
-Covers bg/ex1, Heavensward. 
+[](https://www.nexusmods.com/finalfantasy14/mods/1505)Covers bg/ex1, Heavensward. 
 
 * Heavensward World Textures
 
@@ -91,6 +92,35 @@ Firstly you must have [XIVQuickLauncher](https://github.com/goatcorp/FFXIVQuic
 5. Find "Penumbra" under "Available Plugins" and hit install
 
 [YouTube Video: Installing my mods with Penumbra.](https://youtu.be/5kxvaeE4Ao4)
+
+### **FILE SIZES:**
+
+Main World Textures - Kart World Textures\
+Zipped Folder Size: 10.2 GB + 7.2 GB (17.3 GB)\
+Unpacked Folder Size: 53.1 GB
+
+Heavensward World Textures - Kart World Textures Heavensward\
+Zipped Folder Size: 6.6 GB\
+Unpacked Folder Size: 13.4 GB
+
+Stormblood World Textures - Kart World Textures Stormblood\
+Zipped Folder Size: 9.6 GB\
+Unpacked Folder Size: 24.7 GB
+
+Endwalker World Textures - Kart World Textures Endwalker\
+Zipped Folder Size: 277 MB\
+Unpacked Folder Size: 1.6 GB
+
+Grass World Textures - Kart World Textures Grass\
+Zipped Folder Size: 48 MB\
+Unpacked Folder Size: 435 MB
+
+**Total Zipped Folders Size: 33.9 GB**\
+**Total Unpacked Folders Size: 93.2 GB**
+
+### **Hey Kart I'm running out of disc space:**
+
+[Do this on your world textures folders](https://www.windowscentral.com/how-enable-file-compression-windows-11#compress_ntfs_file_windows11)
 
 ### **Postword**:
 
