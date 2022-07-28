@@ -16,8 +16,6 @@ Smart computer look at picture and make it high resolution.
 
 [3 minute video that explains it really fast with pretty pictures.](https://www.youtube.com/watch?v=Fix6u4pksrg)
 
-
-
 ## **What are world textures?**
 
 ##### In FFXIV, the texture assets are divided broadly into:
@@ -45,8 +43,6 @@ Smart computer look at picture and make it high resolution.
 * **nature** - water, moon phases weather, precipitation particle effect, cloud, and star textures.
 * **world** - common world textures that are utilized by all zones.
 
-
-
 ## Downloads:
 
 Downloads are provided: 
@@ -62,7 +58,9 @@ Covers the bg/ffxiv textures and bgcommon textures. This is the main file.
 
 #### HEAVENSWARD WORLD TEXTURES:
 
-Covers bg/ex1, Heavensward. Coming Soon.
+Covers bg/ex1, Heavensward. 
+
+* Heavensward World Textures
 
 #### [STORMBLOOD WORLD TEXTURES](https://www.nexusmods.com/finalfantasy14/mods/1505):
 
@@ -80,8 +78,6 @@ Covers bg/ex4, Endwalker.
 
 * Endwalker World Textures
 
-
-
 ### INSTALLING:
 
 **Installing Penumbra:**
@@ -95,8 +91,6 @@ Firstly you must have [XIVQuickLauncher](https://github.com/goatcorp/FFXIVQuic
 5. Find "Penumbra" under "Available Plugins" and hit install
 
 [YouTube Video: Installing my mods with Penumbra.](https://youtu.be/5kxvaeE4Ao4)
-
-
 
 ### **Postword**:
 
@@ -112,5 +106,4 @@ Because of these restraints,
 * These works will not be as high quality as my various Face Upscales (which are checked individually) or even of images subdivided into subject categories such as SSEUT (characters, landscapes, armors).
 * These thousands of images are processed by being sorted into very broad  TYPE categories (such as diffuse, normal, detail alpha, cutout alpha) only.
 * These works will be released much faster than specific works for the quantity.
-* If and when issues are noted, they must be corrected manually. They oftentimes must also be found within the game world.
 * Because I use these as a learning opportunity and new techniques are made every day, expect occasional refactoring (redoing my old work with new techniques.)
