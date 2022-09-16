@@ -85,25 +85,17 @@ Since body parts are built into equipment in the game, you must patch all equipm
 
 #### **Teeth:**
 
-Like hands and feet, teeth need to be added on a model by model basis. Search xivmodarchive and FFXIV nexus to collect them all!
-
-* 0 - Illybites Garlean Trio
-* 0 - Illybites for the Eorzean Alliance
-* 0 - Illybites for the Twins
-* 0 - Illybites Lorfangs - All Female Keeper Faces
-* 0 - Illybites Lorfangs - All Male Keeper Faces
-* 0 - Lalibites (also download fix from my illybites page) 
+* 0 - Everyone Bites Illy Vanilla Bite
 
 #### **Beloved NPC fixes/improvements:**
 
 * 0 - Twins Neckseam Fix
 * 0 - Crystal Exarch TB2ified (nexus)
 * 0 - Male Miqo Relaxed Default Idle
-* 1 - Aymeric +TBSE + Illybites (download from my illybites page)
+* 1 - Aymeric's Attractive Fingers 2.0
 
 #### **My most perfect creations:**
 
-* 1 - compiled illybites
 * 0 - kart accessory
 * 2 - kart demihuman
 * 4 - kart equipment recommended
@@ -113,15 +105,13 @@ Like hands and feet, teeth need to be added on a model by model basis. Search xi
 * 2 - kart hair 4x compressed
 * 0 - kart minions and pets
 * 1 - kart monsters
-* 0 - kart npc illybites
 * 5 - kart npcs
-* 5 - kart player mods illybites
 * 0 - kart weapons
-* kart world textures
+* 0 - kart world textures
 * 0 - kart world textures endwalker
 * 0 - kart world textures stormblood
-* 1 - kart world textures uncompressed
-* 1 - kart world textures uncompressed stormblood
+* 0 - kart world textures heavensward
+* 0 - kart world textures grass
 
 #### My character the special snowflake~:
 
