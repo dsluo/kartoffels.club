@@ -35,11 +35,11 @@ draft: false
 >
 > * [Pascal Glicher's Paetron](https://www.patreon.com/mcflypg)
 >
-> **FFXIV UI RESHADE fix:**
+> **FFXIV RESHADE fix:**
 >
 > * [ReshadeEffectShaderToggler](https://github.com/4lex4nder/ReshadeEffectShaderToggler/releases)
 >
-> Alex's fix to prevent reshade from applying to the UI in a less borked way than a mask. Works out of the box. Just dump the "ReshadeEffectToggler.addon" (ReshadeEffectToggler_x64.zip) and the "ReshadeEffectShaderToggler.ini" (FFXIVPresetIni.zip)
+> Alex's fixes to reshade shaders to make them work with FFXIV. He has a channel for this on my discord, if you have questions.
 
 ## Recommended FFXIV visual mods:
 
