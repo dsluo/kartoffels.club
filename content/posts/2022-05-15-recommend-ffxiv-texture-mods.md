@@ -19,7 +19,7 @@ draft: false
 
 > **RESHADE:**
 >
-> * [Reshade 5.2.1 with addons](https://reshade.me/downloads/ReShade_Setup_5.2.1_Addon.exe)
+> * [Reshade 5.4.2 with addons](https://reshade.me/downloads/ReShade_Setup_5.4.2_Addon.exe)
 >
 > **RESHADE shader packs:**
 >
