@@ -8,4 +8,4 @@ tags:
 showTableOfContents: false
 draft: true
 ---
-![](https://i.imgur.com/9rbE28L.png)
+<https://i.imgur.com/9rbE28L.png>
