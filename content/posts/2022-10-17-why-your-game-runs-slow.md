@@ -6,6 +6,6 @@ tags:
   - FFXIV
   - tutorial
 showTableOfContents: false
-draft: true
+draft: false
 ---
-<https://i.imgur.com/9rbE28L.png>
+![](https://i.imgur.com/9rbE28L.png)
