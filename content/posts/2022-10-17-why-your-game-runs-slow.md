@@ -8,4 +8,4 @@ tags:
 showTableOfContents: false
 draft: false
 ---
-![](https://i.imgur.com/9rbE28L.png)
+![](/static/img/kart-s-data-explaination-1-.png)
