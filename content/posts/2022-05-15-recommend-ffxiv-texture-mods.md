@@ -99,10 +99,10 @@ Since body parts are built into equipment in the game, you must patch all equipm
 * 0 - kart accessory
 * 2 - kart demihuman
 * 4 - kart equipment recommended
-* 5 - kart equipment updated
+* 5 - kart equipment updated (if exists)
 * 0 - kart face paint textures
 * 4 - kart faces
-* 2 - kart hair 4x compressed
+* 2 - kart hair
 * 0 - kart minions and pets
 * 1 - kart monsters
 * 5 - kart npcs
