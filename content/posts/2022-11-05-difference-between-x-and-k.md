@@ -11,16 +11,26 @@ draft: false
 ## I HAVE HAD TO EXPLAIN THE DIFFERENCE BETWEEN "x" AND "K" SO MANY TIMES, PLEASE READ THIS.
 
 N = number
+
+
 x = any given resolution
+
+
 K = usually 1000 or 1024 resolution
+
+
 texture = image that a game reads and puts onto a 3d model
 
 #### example:
 
 4x = 4 times the given resolution of a texture
+
+
 4K = 4096x4096 texture
 
 2x = 2 times the given resolution of a texture
+
+
 2k = 2048x2048 texture
 
 ## Okay, why are you defining your packs by 4x, 2x, 1x?
@@ -57,6 +67,8 @@ Imagine you are a game dev. If I have a coin, does it need to have 4k textures? 
 ## So you just use a scalar?
 
 The original developers have already selected the size ratios for the textures of each model. So to upscale the textures I can just slap a scalar onto them for better computers and higher resolution / larger monitors. 
+
+
 
 There is a lot more that goes into then the scale factor, like:
 data locating, data extraction, data identification, data partitioning, appropriate cleaning model for data, appropriate super-resolution model for data, more resizing, compression, more compression, QCing, packaging...
