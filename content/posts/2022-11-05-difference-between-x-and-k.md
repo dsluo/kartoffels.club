@@ -28,6 +28,8 @@ texture = image that a game reads and puts onto a 3d model
 
 4K = 4096x4096 texture
 
+
+
 2x = 2 times the given resolution of a texture
 
 
@@ -43,14 +45,20 @@ we have a set of armor:
 
 
 `set = [head, body, hands, legs, feet]`
+
+
 the resolution of the set is as follows:
 
 
 `set_resolution = [512x512, 1024x512, 512x512, 512x512, 256x256]`
+
+
 we upscale it by a factor of 4:
 
 
 `4(set_resolution) = [2048x2048, 4096x2048, 2048x2048, 2048x2048, 1024x1024]`
+
+
 Basically, it would be a misnomer to identify the set by the highest resolution, when there are hundreds or even thousands of images in a set.
 
 ### Why are textures different sizes?
