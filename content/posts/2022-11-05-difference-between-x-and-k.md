@@ -68,8 +68,6 @@ Imagine you are a game dev. If I have a coin, does it need to have 4k textures? 
 
 The original developers have already selected the size ratios for the textures of each model. So to upscale the textures I can just slap a scalar onto them for better computers and higher resolution / larger monitors. 
 
-
-
 There is a lot more that goes into then the scale factor, like:
 data locating, data extraction, data identification, data partitioning, appropriate cleaning model for data, appropriate super-resolution model for data, more resizing, compression, more compression, QCing, packaging...
 but yeah, in a nutshell bigger number == better.
