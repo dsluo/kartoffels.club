@@ -27,7 +27,7 @@ Smart computer look at picture and make it high resolution.
 * **vfx** - visual effect textures
 * **common** - pre-rendered graphics and text textures.
 
-#### The world textures are comprised of the **bg** and **bgcommon** folders.
+##### The world textures are comprised of the **bg** and **bgcommon** folders.
 
 ##### **bg** is divided into:
 
@@ -87,20 +87,20 @@ World Textures:
 
 (World Texture Fixes v1.0.3 - 606 MB unpacked)
 
-### INSTALLING:
+## INSTALLING:
 
 #### **[Installing Penumbra](https://reniguide.info/#installpenumbra)**
 
-### **FILE SIZES:**
+#### **FILE SIZES:**
 
 **Total Zipped Folders Size: 72 GB**\
 **Total Unpacked Folders Size: 130 GB**
 
-### **Hey Kart I'm running out of disc space:**
+#### **Hey Kart I'm running out of disc space:**
 
 [Do this on your world textures folders](https://www.windowscentral.com/how-enable-file-compression-windows-11#compress_ntfs_file_windows11)
 
-### **Postword**:
+## **Postword**:
 
 My goal is to:
 
