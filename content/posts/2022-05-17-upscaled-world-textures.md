@@ -45,39 +45,51 @@ Smart computer look at picture and make it high resolution.
 
 ## Downloads:
 
-Downloads are provided: 
+World Textures: 
 
-* [On my Nexus Mods Page](https://www.nexusmods.com/finalfantasy14/mods/1505). This requires a free Nexus Mods account. I recommend shelling out for premium as free users are capped at 2MB/s down. If you can't/won't pay for premium, I recommend using a download protector like [JDownloader2](https://jdownloader.org/jdownloader2) so you don't get a corrupted file after 10 hours. 
-* By darkarchon on my discord. They are under #releases. These are faster if you don't have premium. However, these are generously provided at will by dark, and he can remove these for any or no reason at all. You are blessed that he provides them at all. So don't pester him if it isn't instantly updated or is taken down.
+**Most essential:**
 
-#### [UPSCALED MAIN WORLD TEXTURES](https://www.nexusmods.com/finalfantasy14/mods/1505):
+[https://downloads.kartoffels.club/kart+world+textures+grass+v1-0-1.7z](https://downloads.kartoffels.club/kart+world+textures+grass+v1-0-1.7z "https\://downloads.kartoffels.club/kart+world+textures+grass+v1-0-1.7z")
 
-Covers the bg/ffxiv textures and bgcommon textures. This is the main file.
+(grasses - 435 MB unpacked)
 
-* Main World Textures Pt 1
-* Main Word Textures Pt 2
+ [https://downloads.kartoffels.club/kart+world+textures+v1-0-1.7z](https://downloads.kartoffels.club/kart+world+textures+v1-0-1.7z "https\://downloads.kartoffels.club/kart+world+textures+v1-0-1.7z") 
 
-#### [HEAVENSWARD WORLD TEXTURES](https://www.nexusmods.com/finalfantasy14/mods/1505):
+(A Realm Reborn, Housing, common - 52.9 GB unpacked) 
 
-[](https://www.nexusmods.com/finalfantasy14/mods/1505)Covers bg/ex1, Heavensward. 
+**Expansions:** 
 
-* Heavensward World Textures
+[https://downloads.kartoffels.club/kart+world+textures+heavensward+v1-0-2.7z](https://downloads.kartoffels.club/kart+world+textures+heavensward+v1-0-2.7z "https\://downloads.kartoffels.club/kart+world+textures+heavensward+v1-0-2.7z") 
 
-#### [STORMBLOOD WORLD TEXTURES](https://www.nexusmods.com/finalfantasy14/mods/1505):
+(Heavensward - 13.4 GB unpacked ) (PENDING REWORK)
 
-Covers bg/ex2, Stormblood.
+[https://downloads.kartoffels.club/TEST%20kart%20world%20textures%20shadowbringers%20v0-0-0.7z](https://downloads.kartoffels.club/TEST%20kart%20world%20textures%20shadowbringers%20v0-0-0.7z "https\://downloads.kartoffels.club/TEST%20kart%20world%20textures%20shadowbringers%20v0-0-0.7z") 
 
-* Stormblood World Textures
+(Shadowbringers - 23.4 GB unpacked) 
 
-#### SHADOWBRINGERS WORLD TEXTURES:
+[https://downloads.kartoffels.club/TEST%20kart%20world%20textures%20endwalker%20v0-0-0.7z](https://downloads.kartoffels.club/TEST%20kart%20world%20textures%20endwalker%20v0-0-0.7z "https\://downloads.kartoffels.club/TEST%20kart%20world%20textures%20endwalker%20v0-0-0.7z") 
 
-Covers bg/ex3, Shadowbringers. Coming Soon.
+(Endwalker - 22.9 GB unpacked) [](https://downloads.kartoffels.club/kart+world+textures+bc7+test+v0-0-0.7z "https\://downloads.kartoffels.club/kart+world+textures+bc7+test+v0-0-0.7z")
 
-#### [ENDWALKER WORLD TEXTURES](https://www.nexusmods.com/finalfantasy14/mods/1505):
+[https://downloads.kartoffels.club/kart+world+textures+bc7+test+v0-0-0.7z](https://downloads.kartoffels.club/kart+world+textures+bc7+test+v0-0-0.7z "https\://downloads.kartoffels.club/kart+world+textures+bc7+test+v0-0-0.7z") 
 
-Covers bg/ex4, Endwalker.
+(BC7 BETA for ARR and HW - 36.6 GB unpacked ) (PENDING REWORK)
 
-* Endwalker World Textures
+[https://downloads.kartoffels.club/TEST+kart+world+textures+stormblood+v0-0-0.7z](https://downloads.kartoffels.club/TEST+kart+world+textures+stormblood+v0-0-0.7z "https\://downloads.kartoffels.club/TEST+kart+world+textures+stormblood+v0-0-0.7z") 
+
+(Stormblood - 16.8 GB unpacked) 
+
+Alpha:
+
+ [https://downloads.kartoffels.club/TEST%20kart%20vfx%20textures%20v0-0-2.7z](https://downloads.kartoffels.club/TEST%20kart%20vfx%20textures%20v0-0-2.7z "https\://downloads.kartoffels.club/TEST%20kart%20vfx%20textures%20v0-0-2.7z") 
+
+(VFX Textures - 4.82 GB unpacked) 
+
+Updates: [](https://downloads.kartoffels.club/kart%20world%20textures%20fixes%20v1-0-3.7z "https\://downloads.kartoffels.club/kart%20world%20textures%20fixes%20v1-0-3.7z")
+
+[https://downloads.kartoffels.club/kart%20world%20textures%20fixes%20v1-0-3.7z](https://downloads.kartoffels.club/kart%20world%20textures%20fixes%20v1-0-3.7z "https\://downloads.kartoffels.club/kart%20world%20textures%20fixes%20v1-0-3.7z") 
+
+(World Texture Fixes v1.0.3 - 606 MB unpacked)
 
 ### INSTALLING:
 
