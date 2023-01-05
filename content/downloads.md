@@ -15,6 +15,14 @@ showReadingTime: false
 
 # MY MODS
 
+[W﻿ORLD TEXTURES PAGE](https://www.kartoffels.club/posts/2022-05-17-upscaled-world-textures/)
+
+[C﻿HARACTER TEXTURES PAGE](https://www.kartoffels.club/posts/2023-01-05-upscaled-character-textures/)
+
+
+
+\###N﻿EXUS LINKS:
+
 [](https://kartoffels.club/posts/2022-05-15-recommend-ffxiv-texture-mods/)**UPSCALED WORLD TEXTURES**
 
 [(Main Page Link)](https://kartoffels.club/posts/2022-05-17-upscaled-world-textures/)
