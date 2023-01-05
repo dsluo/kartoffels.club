@@ -27,7 +27,11 @@ Smart computer look at picture and make it high resolution.
 * **vfx** - visual effect textures
 * **common** - pre-rendered graphics and text textures.
 
+
+
 ##### The world textures are comprised of the **bg** and **bgcommon** folders.
+
+
 
 ##### **bg** is divided into:
 
