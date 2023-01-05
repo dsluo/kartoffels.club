@@ -53,7 +53,7 @@ World Textures:
 
 (grasses - 435 MB unpacked)
 
- [https://downloads.kartoffels.club/kart+world+textures+v1-0-1.7z](https://downloads.kartoffels.club/kart+world+textures+v1-0-1.7z "https\://downloads.kartoffels.club/kart+world+textures+v1-0-1.7z") 
+ [kart world textures v1-0-1](https://downloads.kartoffels.club/kart+world+textures+v1-0-1.7z "https\://downloads.kartoffels.club/kart+world+textures+v1-0-1.7z") 
 
 (A Realm Reborn, Housing, common - 52.9 GB unpacked) (PENDING REWORK)
 
@@ -71,15 +71,11 @@ World Textures:
 
 (Endwalker - 22.9 GB unpacked) 
 
-[kart world textures bc7 test v0-0-0](https://downloads.kartoffels.club/kart+world+textures+bc7+test+v0-0-0.7z "https\://downloads.kartoffels.club/kart+world+textures+bc7+test+v0-0-0.7z") 
-
-(BC7 BETA for ARR and HW - 36.6 GB unpacked ) (PENDING REWORK)
-
 [kart world textures stormblood v0-0-0](https://downloads.kartoffels.club/TEST+kart+world+textures+stormblood+v0-0-0.7z "https\://downloads.kartoffels.club/TEST+kart+world+textures+stormblood+v0-0-0.7z") 
 
 (Stormblood - 16.8 GB unpacked) 
 
-**Alpha:**
+**Alpha/Beta:**
 
  [kart vfx textures v0-0-2](https://downloads.kartoffels.club/TEST%20kart%20vfx%20textures%20v0-0-2.7z "https\://downloads.kartoffels.club/TEST%20kart%20vfx%20textures%20v0-0-2.7z") 
 
@@ -97,8 +93,8 @@ World Textures:
 
 ### **FILE SIZES:**
 
-**Total Zipped Folders Size: 33.9 GB**\
-**Total Unpacked Folders Size: 170 GB**
+**Total Zipped Folders Size: 72 GB**\
+**Total Unpacked Folders Size: 130 GB**
 
 ### **Hey Kart I'm running out of disc space:**
 
