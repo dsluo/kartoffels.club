@@ -67,15 +67,15 @@ World Textures:
 
 (Heavensward - 13.4 GB unpacked ) (PENDING REWORK)
 
-[kart world textures shadowbringers v0-0-0](https://downloads.kartoffels.club/TEST%20kart%20world%20textures%20shadowbringers%20v0-0-0.7z "https\://downloads.kartoffels.club/TEST%20kart%20world%20textures%20shadowbringers%20v0-0-0.7z") 
+[kart world textures shadowbringers v0-0-0](https://downloads.kartoffels.club/kart%20world%20textures%20shadowbringers%20v0-0-0.7z "https\://downloads.kartoffels.club/kart%20world%20textures%20shadowbringers%20v0-0-0.7z") 
 
 (Shadowbringers - 23.4 GB unpacked) 
 
-[kart world textures endwalker v0-0-0](https://downloads.kartoffels.club/TEST%20kart%20world%20textures%20endwalker%20v0-0-0.7z "https\://downloads.kartoffels.club/TEST%20kart%20world%20textures%20endwalker%20v0-0-0.7z") 
+[kart world textures endwalker v0-0-0](https://downloads.kartoffels.club/kart%20world%20textures%20endwalker%20v0-0-0.7z "https\://downloads.kartoffels.club/kart%20world%20textures%20endwalker%20v0-0-0.7z") 
 
 (Endwalker - 22.9 GB unpacked) 
 
-[kart world textures stormblood v0-0-0](https://downloads.kartoffels.club/TEST+kart+world+textures+stormblood+v0-0-0.7z "https\://downloads.kartoffels.club/TEST+kart+world+textures+stormblood+v0-0-0.7z") 
+[kart world textures stormblood v0-0-0](https://downloads.kartoffels.club/kart+world+textures+stormblood+v0-0-0.7z "https\://downloads.kartoffels.club/+kart+world+textures+stormblood+v0-0-0.7z") 
 
 (Stormblood - 16.8 GB unpacked) 
 
