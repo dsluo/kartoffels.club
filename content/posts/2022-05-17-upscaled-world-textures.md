@@ -49,7 +49,7 @@ World Textures:
 
 **Most essential:**
 
-[https://downloads.kartoffels.club/kart+world+textures+grass+v1-0-1.7z](https://downloads.kartoffels.club/kart+world+textures+grass+v1-0-1.7z "https\://downloads.kartoffels.club/kart+world+textures+grass+v1-0-1.7z")
+[kart world textures grass v1-0-1](https://downloads.kartoffels.club/kart+world+textures+grass+v1-0-1.7z "https\://downloads.kartoffels.club/kart+world+textures+grass+v1-0-1.7z")
 
 (grasses - 435 MB unpacked)
 
@@ -59,35 +59,35 @@ World Textures:
 
 **Expansions:** 
 
-[https://downloads.kartoffels.club/kart+world+textures+heavensward+v1-0-2.7z](https://downloads.kartoffels.club/kart+world+textures+heavensward+v1-0-2.7z "https\://downloads.kartoffels.club/kart+world+textures+heavensward+v1-0-2.7z") 
+[kart world textures heavensward v1-0-2](https://downloads.kartoffels.club/kart+world+textures+heavensward+v1-0-2.7z "https\://downloads.kartoffels.club/kart+world+textures+heavensward+v1-0-2.7z") 
 
 (Heavensward - 13.4 GB unpacked ) (PENDING REWORK)
 
-[https://downloads.kartoffels.club/TEST%20kart%20world%20textures%20shadowbringers%20v0-0-0.7z](https://downloads.kartoffels.club/TEST%20kart%20world%20textures%20shadowbringers%20v0-0-0.7z "https\://downloads.kartoffels.club/TEST%20kart%20world%20textures%20shadowbringers%20v0-0-0.7z") 
+[kart world textures shadowbringers v0-0-0](https://downloads.kartoffels.club/TEST%20kart%20world%20textures%20shadowbringers%20v0-0-0.7z "https\://downloads.kartoffels.club/TEST%20kart%20world%20textures%20shadowbringers%20v0-0-0.7z") 
 
 (Shadowbringers - 23.4 GB unpacked) 
 
-[https://downloads.kartoffels.club/TEST%20kart%20world%20textures%20endwalker%20v0-0-0.7z](https://downloads.kartoffels.club/TEST%20kart%20world%20textures%20endwalker%20v0-0-0.7z "https\://downloads.kartoffels.club/TEST%20kart%20world%20textures%20endwalker%20v0-0-0.7z") 
+[kart world textures endwalker v0-0-0](https://downloads.kartoffels.club/TEST%20kart%20world%20textures%20endwalker%20v0-0-0.7z "https\://downloads.kartoffels.club/TEST%20kart%20world%20textures%20endwalker%20v0-0-0.7z") 
 
-(Endwalker - 22.9 GB unpacked) [](https://downloads.kartoffels.club/kart+world+textures+bc7+test+v0-0-0.7z "https\://downloads.kartoffels.club/kart+world+textures+bc7+test+v0-0-0.7z")
+(Endwalker - 22.9 GB unpacked) 
 
-[https://downloads.kartoffels.club/kart+world+textures+bc7+test+v0-0-0.7z](https://downloads.kartoffels.club/kart+world+textures+bc7+test+v0-0-0.7z "https\://downloads.kartoffels.club/kart+world+textures+bc7+test+v0-0-0.7z") 
+[kart world textures bc7 test v0-0-0](https://downloads.kartoffels.club/kart+world+textures+bc7+test+v0-0-0.7z "https\://downloads.kartoffels.club/kart+world+textures+bc7+test+v0-0-0.7z") 
 
 (BC7 BETA for ARR and HW - 36.6 GB unpacked ) (PENDING REWORK)
 
-[https://downloads.kartoffels.club/TEST+kart+world+textures+stormblood+v0-0-0.7z](https://downloads.kartoffels.club/TEST+kart+world+textures+stormblood+v0-0-0.7z "https\://downloads.kartoffels.club/TEST+kart+world+textures+stormblood+v0-0-0.7z") 
+[kart world textures stormblood v0-0-0](https://downloads.kartoffels.club/TEST+kart+world+textures+stormblood+v0-0-0.7z "https\://downloads.kartoffels.club/TEST+kart+world+textures+stormblood+v0-0-0.7z") 
 
 (Stormblood - 16.8 GB unpacked) 
 
 Alpha:
 
- [https://downloads.kartoffels.club/TEST%20kart%20vfx%20textures%20v0-0-2.7z](https://downloads.kartoffels.club/TEST%20kart%20vfx%20textures%20v0-0-2.7z "https\://downloads.kartoffels.club/TEST%20kart%20vfx%20textures%20v0-0-2.7z") 
+ [kart vfx textures v0-0-2](https://downloads.kartoffels.club/TEST%20kart%20vfx%20textures%20v0-0-2.7z "https\://downloads.kartoffels.club/TEST%20kart%20vfx%20textures%20v0-0-2.7z") 
 
 (VFX Textures - 4.82 GB unpacked) 
 
-Updates: [](https://downloads.kartoffels.club/kart%20world%20textures%20fixes%20v1-0-3.7z "https\://downloads.kartoffels.club/kart%20world%20textures%20fixes%20v1-0-3.7z")
+Updates: 
 
-[https://downloads.kartoffels.club/kart%20world%20textures%20fixes%20v1-0-3.7z](https://downloads.kartoffels.club/kart%20world%20textures%20fixes%20v1-0-3.7z "https\://downloads.kartoffels.club/kart%20world%20textures%20fixes%20v1-0-3.7z") 
+[kart world textures fixes v1-0-3](https://downloads.kartoffels.club/kart%20world%20textures%20fixes%20v1-0-3.7z "https\://downloads.kartoffels.club/kart%20world%20textures%20fixes%20v1-0-3.7z")
 
 (World Texture Fixes v1.0.3 - 606 MB unpacked)
 
@@ -103,32 +103,12 @@ Firstly you must have [XIVQuickLauncher](https://github.com/goatcorp/FFXIVQuic
 4. Press ESC and click "Dalamud Plugins"
 5. Find "Penumbra" under "Available Plugins" and hit install
 
-[YouTube Video: Installing my mods with Penumbra.](https://youtu.be/5kxvaeE4Ao4)
+
 
 ### **FILE SIZES:**
 
-Main World Textures - Kart World Textures\
-Zipped Folder Size: 10.2 GB + 7.2 GB (17.3 GB)\
-Unpacked Folder Size: 53.1 GB
-
-Heavensward World Textures - Kart World Textures Heavensward\
-Zipped Folder Size: 6.6 GB\
-Unpacked Folder Size: 13.4 GB
-
-Stormblood World Textures - Kart World Textures Stormblood\
-Zipped Folder Size: 9.6 GB\
-Unpacked Folder Size: 24.7 GB
-
-Endwalker World Textures - Kart World Textures Endwalker\
-Zipped Folder Size: 277 MB\
-Unpacked Folder Size: 1.6 GB
-
-Grass World Textures - Kart World Textures Grass\
-Zipped Folder Size: 48 MB\
-Unpacked Folder Size: 435 MB
-
 **Total Zipped Folders Size: 33.9 GB**\
-**Total Unpacked Folders Size: 93.2 GB**
+**Total Unpacked Folders Size: 170 GB**
 
 ### **Hey Kart I'm running out of disc space:**
 
