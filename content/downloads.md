@@ -23,10 +23,6 @@ showReadingTime: false
 
 ### N﻿EXUS LINKS:
 
-[](https://kartoffels.club/posts/2022-05-15-recommend-ffxiv-texture-mods/)**UPSCALED WORLD TEXTURES**
-
-[(Main Page Link)](https://kartoffels.club/posts/2022-05-17-upscaled-world-textures/)
-
 **UPSCALED DEMIHUMANS TEXTURES**
 
 [(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1570)
