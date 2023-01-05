@@ -55,7 +55,7 @@ World Textures:
 
  [https://downloads.kartoffels.club/kart+world+textures+v1-0-1.7z](https://downloads.kartoffels.club/kart+world+textures+v1-0-1.7z "https\://downloads.kartoffels.club/kart+world+textures+v1-0-1.7z") 
 
-(A Realm Reborn, Housing, common - 52.9 GB unpacked) 
+(A Realm Reborn, Housing, common - 52.9 GB unpacked) (PENDING REWORK)
 
 **Expansions:** 
 
@@ -79,13 +79,13 @@ World Textures:
 
 (Stormblood - 16.8 GB unpacked) 
 
-Alpha:
+**Alpha:**
 
  [kart vfx textures v0-0-2](https://downloads.kartoffels.club/TEST%20kart%20vfx%20textures%20v0-0-2.7z "https\://downloads.kartoffels.club/TEST%20kart%20vfx%20textures%20v0-0-2.7z") 
 
 (VFX Textures - 4.82 GB unpacked) 
 
-Updates: 
+**Updates:** 
 
 [kart world textures fixes v1-0-3](https://downloads.kartoffels.club/kart%20world%20textures%20fixes%20v1-0-3.7z "https\://downloads.kartoffels.club/kart%20world%20textures%20fixes%20v1-0-3.7z")
 
@@ -93,17 +93,7 @@ Updates:
 
 ### INSTALLING:
 
-**Installing Penumbra:**
-
-Firstly you must have [XIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher/releases) (which is amazing and you probably already have)
-
-1. Login to the game, press ESC, click "Dalamud Settings"
-2. Add the following URL as a "[Custom Plugin Repository](https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json)" 
-3. Click "Save and Close"
-4. Press ESC and click "Dalamud Plugins"
-5. Find "Penumbra" under "Available Plugins" and hit install
-
-
+#### **[Installing Penumbra](https://reniguide.info/#installpenumbra)**
 
 ### **FILE SIZES:**
 
