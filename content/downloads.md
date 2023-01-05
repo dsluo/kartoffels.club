@@ -21,7 +21,7 @@ showReadingTime: false
 
 
 
-\###N﻿EXUS LINKS:
+### N﻿EXUS LINKS:
 
 [](https://kartoffels.club/posts/2022-05-15-recommend-ffxiv-texture-mods/)**UPSCALED WORLD TEXTURES**
 
