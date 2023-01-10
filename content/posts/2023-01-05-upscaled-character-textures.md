@@ -8,7 +8,6 @@ categories:
 showTableOfContents: true
 draft: false
 ---
-
 ## **[PREVIEW VIDEO](https://www.youtube.com/watch?v=fSO48HBqFyA)**
 
 ## **What is a texture upscale?**
@@ -21,36 +20,36 @@ Smart computer look at picture and make it high resolution.
 
 ##### In FFXIV, the texture assets are divided broadly into:
 
--   **bg** - background textures
--   **bgcommon** - common background textures
--   **chara** - character textures
--   **ui** - user interface textures
--   **vfx** - visual effect textures
--   **common** - pre-rendered graphics and text textures.
+* **bg** - background textures
+* **bgcommon** - common background textures
+* **chara** - character textures
+* **ui** - user interface textures
+* **vfx** - visual effect textures
+* **common** - pre-rendered graphics and text textures.
 
 ##### The character textures are comprised of the **chara** folder
 
 ##### **chara** is divided into:
 
--   **accessory** - textures for accessories: ring, necklace, and bracelet slots.
--   **common** - textures for decals.
--   **demihuman** - textures for demihumans like Gaia and beast races.
--   **equipment** - textures for equipment: gloves, boots, hat, shirt, and pants slots.
--   **human** - textures for player races including hair, faces, body, NPC faces and hairs.
--   **monster** - textures for monsters, bosses, some NPCs, minions, summons, and special accessories.
--   **weapon** - textures for weapons and things you hold in your hands like food.
+* **accessory** - textures for accessories: ring, necklace, and bracelet slots.
+* **common** - textures for decals.
+* **demihuman** - textures for demihumans like Gaia and beast races.
+* **equipment** - textures for equipment: gloves, boots, hat, shirt, and pants slots.
+* **human** - textures for player races including hair, faces, body, NPC faces and hairs.
+* **monster** - textures for monsters, bosses, some NPCs, minions, summons, and special accessories.
+* **weapon** - textures for weapons and things you hold in your hands like food.
 
 ## Downloads:
 
 **Everything but HUMAN:**
 
-RECOMMENDED [pain and suffering 2x v0-0-0](https://downloads.kartoffels.club/TEST%20pain%20and%20suffering%202x%20v0-0-0.7z "https://downloads.kartoffels.club/TEST%20pain%20and%20suffering%202x%20v0-0-0.7z")
+RECOMMENDED [pain and suffering 2x v0-0-0](https://downloads.kartoffels.club/TEST%20pain%20and%20suffering%202x%20v0-0-0.7z "https\://downloads.kartoffels.club/TEST%20pain%20and%20suffering%202x%20v0-0-0.7z")
 
 (Demihumans, Equipment, Minions, Mounts, Accessories, Weapons, Monsters in 2x resolution)
 
 Zipped size: 26.2 GB, Unzipped size: 71.6 GB
 
-[pain and suffering 4x v0-0-0](https://downloads.kartoffels.club/TEST%20pain%20and%20suffering%204x%20v0-0-0.7z "https://downloads.kartoffels.club/TEST%20pain%20and%20suffering%204x%20v0-0-0.7z")
+[pain and suffering 4x v0-0-0](https://downloads.kartoffels.club/TEST%20pain%20and%20suffering%204x%20v0-0-0.7z "https\://downloads.kartoffels.club/TEST%20pain%20and%20suffering%204x%20v0-0-0.7z")
 
 (Demihumans, Equipment, Minions, Mounts, Accessories, Weapons, Monsters in 4x resolution)
 
@@ -58,15 +57,15 @@ Zipped size: 92.2 GB, Unzipped size: 246 GB
 
 **HUMAN**:
 
-[kart hair v5-0-0](https://downloads.kartoffels.club/kart%20hair%20v5-0-0.7z "https://downloads.kartoffels.club/kart%20hair%20v5-0-0.7z")
+[kart hair v5-0-0](https://downloads.kartoffels.club/kart%20hair%20v5-0-0.7z "https\://downloads.kartoffels.club/kart%20hair%20v5-0-0.7z")
 
 Zipped size: 1.45GB, Unzipped Size 2.64 GB
 
-[kart facepaint v1-2-0](https://downloads.kartoffels.club/kart+facepaint+v1-2-0.7z "hhttps://downloads.kartoffels.club/kart+facepaint+v1-2-0.7z ")
+[kart facepaint v1-2-0](https://downloads.kartoffels.club/kart+facepaint+v1-2-0.7z "hhttps\://downloads.kartoffels.club/kart+facepaint+v1-2-0.7z ")
 
 Zipped size: 4MB, Unzipped Size 256 MB
 
-[kart faces ultraFART v0-0-0](https://downloads.kartoffels.club/kart+faces+ultraFART+v0-0-0.7z "https://downloads.kartoffels.club/kart+faces+ultraFART+v0-0-0.7z")
+[kart faces ultraFART v0-0-0](https://downloads.kartoffels.club/kart+faces+ultraFART+v0-0-0.7z "https\://downloads.kartoffels.club/kart+faces+ultraFART+v0-0-0.7z")
 
 Zipped size: 99MB, Unzipped Size 293 MB
 
@@ -76,36 +75,36 @@ Zipped size: 99MB, Unzipped Size 293 MB
 
 #### **FILE SIZES:**
 
-**Total Recommended Zipped Folders Size: 27.8 GB**  
+**Total Recommended Zipped Folders Size: 27.8 GB**\
 **Total Unpacked Folders Size: 74.6 GB**
 
 #### **Hey Kart I'm running out of disc space:**
 
 [Do this on your world textures folders](https://www.windowscentral.com/how-enable-file-compression-windows-11#compress_ntfs_file_windows11)
 
-
 ## RECOMMENDED PRIORITY:
-kart diffuse: 0
-kart facepaint: 0
-kart faces: 1 (if you use it)
-kart faces ultraFART: 0
-kart hair: 0
-kart multi: 0
-kart normals: 0
-kart specular: 0
-kart special: 1
+
+* kart diffuse: 0
+* kart facepaint: 0
+* kart faces: 1 (if you use it)
+* kart faces ultraFART: 0
+* kart hair: 0
+* kart multi: 0
+* kart normals: 0
+* kart specular: 0
+* kart special: 1
 
 ## **Postword**:
 
 My goal is to:
 
--   To have world textures of a higher resolution than the original while in cutscenes.
--   To complete this in a somewhat timely manner.
--   To learn some new techniques in regards to manipulating image data.
+* To have world textures of a higher resolution than the original while in cutscenes.
+* To complete this in a somewhat timely manner.
+* To learn some new techniques in regards to manipulating image data.
 
 Because of these restraints,
 
--   These works will not be as high quality as my various Face Upscales (which are checked individually) or even of images subdivided into subject categories such as SSEUT (characters, landscapes, armors).
--   These thousands of images are processed by being sorted into very broad TYPE categories (such as diffuse, normal, detail alpha, cutout alpha) only.
--   These works will be released much faster than specific works for the quantity.
--   Because I use these as a learning opportunity and new techniques are made every day, expect occasional refactoring (redoing my old work with new techniques.)
+* These works will not be as high quality as my various Face Upscales (which are checked individually) or even of images subdivided into subject categories such as SSEUT (characters, landscapes, armors).
+* These thousands of images are processed by being sorted into very broad TYPE categories (such as diffuse, normal, detail alpha, cutout alpha) only.
+* These works will be released much faster than specific works for the quantity.
+* Because I use these as a learning opportunity and new techniques are made every day, expect occasional refactoring (redoing my old work with new techniques.)
