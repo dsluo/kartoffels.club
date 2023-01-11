@@ -9,10 +9,9 @@ showReadingTime: false
 ---
 # Elder Scrolls Projects
 
-
 ### **Skyrim Special Edition**
 
-Skyrim Upscaled Textures (SSEUT)
+Skyrim Upscaled Textures (SSEUT) oh my god these needs to be updated
 
 * [SSEUT - Actors](https://www.nexusmods.com/skyrimspecialedition/mods/49986)
 * [SSEUT - Landscape](https://www.nexusmods.com/skyrimspecialedition/mods/49972)
