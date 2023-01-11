@@ -11,7 +11,7 @@ showReadingTime: false
 
 ### **Skyrim Special Edition**
 
-Skyrim Upscaled Textures (SSEUT) oh my god these needs to be updated
+Skyrim Upscaled Textures (SSEUT) oh my god these need to be updated
 
 * [SSEUT - Actors](https://www.nexusmods.com/skyrimspecialedition/mods/49986)
 * [SSEUT - Landscape](https://www.nexusmods.com/skyrimspecialedition/mods/49972)
