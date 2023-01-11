@@ -19,46 +19,16 @@ showReadingTime: false
 
 [C﻿HARACTER TEXTURES PAGE](https://www.kartoffels.club/posts/2023-01-05-upscaled-character-textures/)
 
-
-
 ### N﻿EXUS LINKS:
 
-**UPSCALED DEMIHUMANS TEXTURES**
-
-[(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1570)
-
-[](https://www.nexusmods.com/finalfantasy14/mods/1570)**UPSCALED EQUIPMENT TEXTURES**
+**UPSCALED EQUIPMENT TEXTURES**
 
 [(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1442)
 
-[](https://www.nexusmods.com/finalfantasy14/mods/1584)**UPSCALED FACE PAINT TEXTURES**
+**UPSCALED HUMAN TEXTURES**
 
-[(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1204)
+[(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1470)
 
-[](https://www.nexusmods.com/finalfantasy14/mods/1204)**UPSCALED WEAPON TEXTURES**
-
-[(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1479)
-
-[](https://www.nexusmods.com/finalfantasy14/mods/1479)**UPSCALED FACE TEXTURES**
-
-[(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1584)
-
-[](https://www.nexusmods.com/finalfantasy14/mods/1584)**UPSCALED NPC TEXTURES**
-
-[(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1507)
-
-**UPSCALED ACCESSORY TEXTURES**
-
-([Nexus Link](https://www.nexusmods.com/finalfantasy14/mods/1610/))
-
-[](https://www.nexusmods.com/finalfantasy14/mods/1570)**UPSCALED MINIONS TEXTURES**
-
-[(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1621)
-
-[](https://www.nexusmods.com/finalfantasy14/mods/1570)**UPSCALED MOUNTS TEXTURES**
+**UPSCALED CHARACTER TEXTURES**
 
 [(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1622)
-
-[](https://www.nexusmods.com/finalfantasy14/mods/1570)**UPSCALED MONSTERS TEXTURES**
-
-[(Nexus Link)](https://www.nexusmods.com/finalfantasy14/mods/1623)
