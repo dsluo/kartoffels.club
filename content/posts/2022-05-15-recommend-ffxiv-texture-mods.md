@@ -74,11 +74,6 @@ Since body parts are built into equipment in the game, you must patch all equipm
 * 1  - TBSE mani-pedi megapack (nexus)
 * 3 - otopop mani-pedi megapack
 
-#### **Face Textures:**
-
-* 1 - Face Defined (nexus)
-* 1 - NPC Defined (nexus)
-
 #### **Eye Textures:**
 
 * 2 - Bright Eyes
@@ -96,20 +91,21 @@ Since body parts are built into equipment in the game, you must patch all equipm
 
 #### **My most perfect creations:**
 
-* 0 - kart accessory
-* 2 - kart demihuman
-* 4 - kart equipment recommended
-* 5 - kart equipment updated (if exists)
+* 1 - kart diffuse 2x
+* 1 - kart multi 2x
+* 1 - kart normals 2x
+* 1 - kart specular 2x
+* 2 - kart special 4x
 * 0 - kart face paint textures
-* 4 - kart faces
-* 2 - kart hair
-* 0 - kart minions and pets
-* 1 - kart monsters
-* 5 - kart npcs
-* 0 - kart weapons
-* 0 - kart world textures
+* 10 - kart face UltraFART
+* 9 - kart hair
+* 0 - kart vfx textures
+* 0 - kart world textures main
+* 0 - kart world textures common
+* 0 - kart world textures grasses
 * 0 - kart world textures endwalker
 * 0 - kart world textures stormblood
+* 0 - kart world textures shadowbringers
 * 0 - kart world textures heavensward
 * 0 - kart world textures grass
 
