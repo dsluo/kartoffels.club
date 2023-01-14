@@ -8,7 +8,7 @@ categories:
 showTableOfContents: true
 draft: false
 ---
-## **[PREVIEW VIDEO](https://www.youtube.com/watch?v=fSO48HBqFyA)**
+## **[PREVIEW VIDEO](https://www.youtube.com/watch?v=M1_HPTJpZvk)**
 
 ## **What is a texture upscale?**
 
