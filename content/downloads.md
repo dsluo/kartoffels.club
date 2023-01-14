@@ -9,7 +9,7 @@ showReadingTime: false
 ---
 # **FFXIV**
 
-## [Preview Video](https://www.youtube.com/watch?v=fSO48HBqFyA)
+## [Preview Video](https://www.youtube.com/watch?v=M1_HPTJpZvk)
 
 ## [Recommended Mods](https://kartoffels.club/posts/2022-05-15-recommend-ffxiv-texture-mods/)
 
