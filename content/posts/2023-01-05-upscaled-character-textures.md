@@ -65,7 +65,7 @@ Zipped size: TBD GB, Unzipped size: 246 GB
 
 Zipped size: TBD GB, Unzipped size: 32.7 GB
 
-[kart chara textures mob 4x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20v1-0-0 "https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20v1-0-0")  NOT UPLOADED YET
+[kart chara textures equipment 4x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20v1-0-0 "https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20v1-0-0")  NOT UPLOADED YET
 
 (Accessory, Equipment, Weapon in 4x resolution)
 
