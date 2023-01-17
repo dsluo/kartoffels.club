@@ -18,56 +18,81 @@ Smart computer look at picture and make it high resolution.
 
 ## **What are character textures?**
 
-##### In FFXIV, the texture assets are divided broadly into:
+ In FFXIV, the texture assets are divided broadly into:
 
-* **bg** - background textures
-* **bgcommon** - common background textures
-* **chara** - character textures
-* **ui** - user interface textures
-* **vfx** - visual effect textures
-* **common** - pre-rendered graphics and text textures.
+-   **bg** - background textures
+-   **bgcommon** - common background textures
+-   **chara** - character textures
+-   **ui** - user interface textures
+-   **vfx** - visual effect textures
+-   **common** - pre-rendered graphics and text textures.
 
-##### The character textures are comprised of the **chara** folder
+The character textures are inside of the ***chara*** folder.
 
-##### **chara** is divided into:
+**chara** is divided into:
 
-* **accessory** - textures for accessories: ring, necklace, and bracelet slots.
-* **common** - textures for decals.
-* **demihuman** - textures for demihumans like Gaia and beast races.
-* **equipment** - textures for equipment: gloves, boots, hat, shirt, and pants slots.
-* **human** - textures for player races including hair, faces, body, NPC faces and hairs.
-* **monster** - textures for monsters, bosses, some NPCs, minions, summons, and special accessories.
-* **weapon** - textures for weapons and things you hold in your hands like food.
+-   **accessory** - textures for accessories: ring, necklace, and bracelet slots.
+-   **common** - textures for decals.
+-   **demihuman** - textures for demihumans like Gaia and beast races.
+-   **equipment** - textures for equipment: gloves, boots, hat, shirt, and pants slots.
+-   **human** - textures for player races including hair, faces, body, NPC faces and hairs.
+-   **monster** - textures for monsters, bosses, some NPCs, minions, summons, and special accessories.
+-   **weapon** - textures for weapons and things you hold in your hands like food.
 
 ## Downloads:
 
-**Everything but HUMAN:**
+**Currently up to date with ENDWALKER PATCH 6.3**
 
-RECOMMENDED [pain and suffering 2x v0-0-0](https://downloads.kartoffels.club/TEST%20pain%20and%20suffering%202x%20v0-0-0.7z "https\://downloads.kartoffels.club/TEST%20pain%20and%20suffering%202x%20v0-0-0.7z")
+### **MOBS:**
 
-(Demihumans, Equipment, Minions, Mounts, Accessories, Weapons, Monsters in 2x resolution)
+[kart mob 2x v1-0-0](https://downloads.kartoffels.club/kart%20mob%202x%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20mob%202x%20v1-0-0.7z") *RECOMMENDED*  NOT UPLOADED YET
 
-Zipped size: 26.2 GB, Unzipped size: 71.6 GB
+(Demihuman, Monster in 2x resolution)
 
-[pain and suffering 4x v0-0-0](https://downloads.kartoffels.club/TEST%20pain%20and%20suffering%204x%20v0-0-0.7z "https\://downloads.kartoffels.club/TEST%20pain%20and%20suffering%204x%20v0-0-0.7z")
+Zipped size: TBD GB, Unzipped size: 34.1 GB
 
-(Demihumans, Equipment, Minions, Mounts, Accessories, Weapons, Monsters in 4x resolution)
+[kart mob 4x v1-0-0](https://downloads.kartoffels.club/kart%20mob%204x%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20mob%204x%20v1-0-0.7z") NOT UPLOADED YET
 
-Zipped size: 92.2 GB, Unzipped size: 246 GB
+(Demihuman, Monster in 4x resolution)
 
-**HUMAN**:
+Zipped size: TBD GB, Unzipped size: 246 GB
 
-[kart hair v5-0-0](https://downloads.kartoffels.club/kart%20hair%20v5-0-0.7z "https\://downloads.kartoffels.club/kart%20hair%20v5-0-0.7z")
+### **EQUIPMENT:**
 
-Zipped size: 1.45GB, Unzipped Size 2.64 GB
+[kart equipment 2x v1-0-0](https://downloads.kartoffels.club/kart%20equipment%202x%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20equipment%202x%20v1-0-0.7z") *RECOMMENDED*  NOT UPLOADED YET
 
-[kart facepaint v1-2-0](https://downloads.kartoffels.club/kart+facepaint+v1-2-0.7z "hhttps\://downloads.kartoffels.club/kart+facepaint+v1-2-0.7z ")
+(Accessory, Equipment, Weapon in 2x resolution)
 
-Zipped size: 4MB, Unzipped Size 256 MB
+Zipped size: TBD GB, Unzipped size: 32.7 GB
 
-[kart faces ultraFART v0-0-0](https://downloads.kartoffels.club/kart+faces+ultraFART+v0-0-0.7z "https\://downloads.kartoffels.club/kart+faces+ultraFART+v0-0-0.7z")
+[kart mob 4x v1-0-0](https://downloads.kartoffels.club/kart%20equipment%204x%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20equipment%204x%20v1-0-0.7z")  NOT UPLOADED YET
 
-Zipped size: 99MB, Unzipped Size 293 MB
+(Accessory, Equipment, Weapon in 4x resolution)
+
+Zipped size: TBD GB, Unzipped size: TBD GB
+
+**UPDATING FROM "PAIN AND SUFFERING" (only for smarties)**
+
+If you understand what this guide is saying then you can do this instead of redownloading.
+First dedupe "kart diffuse, kart multi, kart normal, kart specular, kart special 4x".
+Then split them following this guide:
+ kart equipment 4x = FROM "kart diffuse 4x, kart multi 4x, kart normal 4x, kart specular 2x, kart special 4x" COPY ONLY "accessory, equipment, monster/m6001-monster/m6006", weapons"
+ kart equipment 2x = FROM "kart diffuse 2x, kart multi 2x, kart normal 2x, kart specular 1x, kart special 4x" COPY ONLY "accessory, equipment, monster/m6001-monster/m6006", weapons"
+ kart character 4x = FROM  "kart diffuse 4x, kart multi 4x, kart normal 4x, kart specular 2x, kart special 4x" COPY ONLY "demihuman, monster, EXCEPT monster/m6001-monster/m6006" 
+ kart character 2x = FROM "kart diffuse 2x, kart multi 2x, kart normal 2x, kart specular 1x, kart special 4x" COPY ONLY "demihuman, monster, EXCEPT monster/m6001-monster/m6006"
+
+[kart equipment 2x-update-for-smarties-only](https://downloads.kartoffels.club/kart%20equipment%202x-update-for-smarties-only.7z "https://downloads.kartoffels.club/kart%20equipment%202x-update-for-smarties-only.7z")
+[kart equipment 4x-update-for-smarties-only](https://downloads.kartoffels.club/kart%20equipment%204x-update-for-smarties-only.7z "https://downloads.kartoffels.club/kart%20equipment%204x-update-for-smarties-only.7z")
+
+[kart mob 2x-update-for-smarties-only](https://downloads.kartoffels.club/kart%20mob%202x-update-for-smarties-only.7z "https://downloads.kartoffels.club/kart%20mob%202x-update-for-smarties-only.7z")
+[kart character 4x-update-for-smarties-only](https://downloads.kartoffels.club/kart%20mob%204x-update-for-smarties-only.7z "https://downloads.kartoffels.club/kart%20mob%204x-update-for-smarties-only.7z")
+
+### **HUMAN**:
+
+[kart human v1-0-0](https://downloads.kartoffels.club/kart%human%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20human%20v1-0-0.7z") *RECOMMENDED* NOT UPLOADED YET
+(Face, Face Paint, Hair in 4x resolution)
+
+Zipped size: 1.67 GB, Unzipped Size 3.37 GB
 
 ## INSTALLING:
 
@@ -75,36 +100,25 @@ Zipped size: 99MB, Unzipped Size 293 MB
 
 #### **FILE SIZES:**
 
-**Total Recommended Zipped Folders Size: 27.8 GB**\
-**Total Unpacked Folders Size: 74.6 GB**
+**Total Recommended Zipped Folders Size: TBD GB**  
+**Total Unpacked Folders Size: TBD GB**
 
 #### **Hey Kart I'm running out of disc space:**
 
-[Do this on your world textures folders](https://www.windowscentral.com/how-enable-file-compression-windows-11#compress_ntfs_file_windows11)
+[Do this on your textures folders](https://www.windowscentral.com/how-enable-file-compression-windows-11#compress_ntfs_file_windows11)
 
-## RECOMMENDED PRIORITY:
-
-* kart diffuse: 0
-* kart facepaint: 0
-* kart faces: 1 (if you use it)
-* kart faces ultraFART: 0
-* kart hair: 0
-* kart multi: 0
-* kart normals: 0
-* kart specular: 0
-* kart special: 1
 
 ## **Postword**:
 
 My goal is to:
 
-* To have world textures of a higher resolution than the original while in cutscenes.
-* To complete this in a somewhat timely manner.
-* To learn some new techniques in regards to manipulating image data.
+-   To have world textures of a higher resolution than the original while in cutscenes.
+-   To complete this in a somewhat timely manner.
+-   To learn some new techniques in regards to manipulating image data.
 
 Because of these restraints,
 
-* These works will not be as high quality as my various Face Upscales (which are checked individually) or even of images subdivided into subject categories such as SSEUT (characters, landscapes, armors).
-* These thousands of images are processed by being sorted into very broad TYPE categories (such as diffuse, normal, detail alpha, cutout alpha) only.
-* These works will be released much faster than specific works for the quantity.
-* Because I use these as a learning opportunity and new techniques are made every day, expect occasional refactoring (redoing my old work with new techniques.)
+-   These works will not be as high quality as my various Face Upscales (which are checked individually) or even of images subdivided into subject categories such as SSEUT (characters, landscapes, armors).
+-   These thousands of images are processed by being sorted into very broad TYPE categories (such as diffuse, normal, detail alpha, cutout alpha) only.
+-   These works will be released much faster than specific works for the quantity.
+-   Because I use these as a learning opportunity and new techniques are made every day, expect occasional refactoring (redoing my old work with new techniques.)
