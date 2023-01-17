@@ -59,13 +59,13 @@ Zipped size: TBD GB, Unzipped size: 246 GB
 
 ### **EQUIPMENT:**
 
-[kart chara textures equipment 2x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20v1-0-0 "https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20v1-0-0") *RECOMMENDED*  NOT UPLOADED YET
+[kart chara textures equipment 2x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20v1-0-0.7z") *RECOMMENDED*  NOT UPLOADED YET
 
 (Accessory, Equipment, Weapon in 2x resolution)
 
 Zipped size: TBD GB, Unzipped size: 32.7 GB
 
-[kart chara textures equipment 4x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20v1-0-0 "https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20v1-0-0")  NOT UPLOADED YET
+[kart chara textures equipment 4x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20v1-0-0.7z")  NOT UPLOADED YET
 
 (Accessory, Equipment, Weapon in 4x resolution)
 
@@ -88,17 +88,17 @@ kart chara textures mob 4x = FROM  "kart diffuse 4x, kart multi 4x, kart normal 
 kart chara textures mob 2x = FROM "kart diffuse 2x, kart multi 2x, kart normal 2x, kart specular 1x, kart special 4x" COPY ONLY "demihuman, monster, EXCEPT monster/m6001-monster/m6006"
 
 
-[kart chara textures equipment 2x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20update-for-smarties-only "https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20update-for-smarties-onlyz")
+[kart chara textures equipment 2x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20update-for-smarties-only.7z "https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20update-for-smarties-only.7z")
 
-[kart chara textures equipment 4x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20update-for-smarties-only "https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20update-for-smarties-only")
+[kart chara textures equipment 4x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20update-for-smarties-only.7z "https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20update-for-smarties-only.7z")
 
-[kart chara textures mob 2x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%202x%20update-for-smarties-only "https://downloads.kartoffels.club/kart%20chara%20textures%20mob%202x%20update-for-smarties-only")
+[kart chara textures mob 2x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%202x%20update-for-smarties-only.7z "https://downloads.kartoffels.club/kart%20chara%20textures%20mob%202x%20update-for-smarties-only.7z")
 
-[kart chara textures mob 4x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20update-for-smarties-only "https://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20update-for-smarties-only")
+[kart chara textures mob 4x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20update-for-smarties-only.7z "https://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20update-for-smarties-only.7z")
 
 ### **HUMAN**:
 
-[kart chara textures human v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20human%20v1-0-0 "https://downloads.kartoffels.club/kart%20chara%20textures%20human%20v1-0-0") *RECOMMENDED* NOT UPLOADED YET
+[kart chara textures human v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20human%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20chara%20textures%20human%20v1-0-0.7z") *RECOMMENDED* NOT UPLOADED YET
 (Face, Face Paint, Hair in 4x resolution)
 
 Zipped size: 1.67 GB, Unzipped Size 3.37 GB
