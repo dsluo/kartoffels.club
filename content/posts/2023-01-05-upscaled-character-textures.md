@@ -74,7 +74,9 @@ Zipped size: TBD GB, Unzipped size: TBD GB
 **UPDATING FROM "PAIN AND SUFFERING" (only for smarties)**
 
 If you understand what this guide is saying then you can do this instead of redownloading.
+
 First dedupe "kart diffuse, kart multi, kart normal, kart specular, kart special 4x".
+
 Then split them following this guide:
 
  kart equipment 4x = FROM "kart diffuse 4x, kart multi 4x, kart normal 4x, kart specular 2x, kart special 4x" COPY ONLY "accessory, equipment, monster/m6001-monster/m6006", weapons"
