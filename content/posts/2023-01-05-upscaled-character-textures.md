@@ -79,13 +79,13 @@ First dedupe "kart diffuse, kart multi, kart normal, kart specular, kart special
 
 Then split them following this guide:
 
- kart equipment 4x = FROM "kart diffuse 4x, kart multi 4x, kart normal 4x, kart specular 2x, kart special 4x" COPY ONLY "accessory, equipment, monster/m6001-monster/m6006", weapons"
+kart chara textures equipment 4x= FROM "kart diffuse 4x, kart multi 4x, kart normal 4x, kart specular 2x, kart special 4x" COPY ONLY "accessory, equipment, monster/m6001-monster/m6006", weapons"
 
- kart equipment 2x = FROM "kart diffuse 2x, kart multi 2x, kart normal 2x, kart specular 1x, kart special 4x" COPY ONLY "accessory, equipment, monster/m6001-monster/m6006", weapons"
+kart chara textures equipment 2x = FROM "kart diffuse 2x, kart multi 2x, kart normal 2x, kart specular 1x, kart special 4x" COPY ONLY "accessory, equipment, monster/m6001-monster/m6006", weapons"
 
- kart character 4x = FROM  "kart diffuse 4x, kart multi 4x, kart normal 4x, kart specular 2x, kart special 4x" COPY ONLY "demihuman, monster, EXCEPT monster/m6001-monster/m6006" 
+kart chara textures mob 4x = FROM  "kart diffuse 4x, kart multi 4x, kart normal 4x, kart specular 2x, kart special 4x" COPY ONLY "demihuman, monster, EXCEPT monster/m6001-monster/m6006" 
 
- kart character 2x = FROM "kart diffuse 2x, kart multi 2x, kart normal 2x, kart specular 1x, kart special 4x" COPY ONLY "demihuman, monster, EXCEPT monster/m6001-monster/m6006"
+kart chara textures mob 2x = FROM "kart diffuse 2x, kart multi 2x, kart normal 2x, kart specular 1x, kart special 4x" COPY ONLY "demihuman, monster, EXCEPT monster/m6001-monster/m6006"
 
 
 [kart chara textures equipment 2x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20update-for-smarties-only "https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20update-for-smarties-onlyz")
@@ -94,7 +94,7 @@ Then split them following this guide:
 
 [kart chara textures mob 2x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%202x%20update-for-smarties-only "https://downloads.kartoffels.club/kart%20chara%20textures%20mob%202x%20update-for-smarties-only")
 
-[kart chara textures character 4x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20update-for-smarties-only "https://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20update-for-smarties-only")
+[kart chara textures mob 4x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20update-for-smarties-only "https://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20update-for-smarties-only")
 
 ### **HUMAN**:
 
