@@ -49,51 +49,51 @@ World Textures:
 
 **Most essential:**
 
-[kart world textures grass v1-0-1](https://downloads.kartoffels.club/kart+world+textures+grass+v1-0-1.7z "https://downloads.kartoffels.club/kart+world+textures+grass+v1-0-1.7z")
+[kart world textures grass v1-0-1](https://downloads.kartoffels.club/kart+world+textures+grass+v1-0-1.7z)
 
 (grasses - 435 MB unpacked)
 
-[kart world textures main v1-0-0](https://downloads.kartoffels.club/kart%20world%20textures%20main%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20world%20textures%20main%20v1-0-0.7z")
+[kart world textures main v1-0-0](https://downloads.kartoffels.club/kart%20world%20textures%20main%20v1-0-0.7z)
 
 (A Realm Reborn - 19.9 GB unpacked)
 
-[kart world textures common v1-0-0](https://downloads.kartoffels.club/kart%20world%20textures%20common%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20world%20textures%20common%20v1-0-0.7z")
+[kart world textures common v1-0-0](https://downloads.kartoffels.club/kart%20world%20textures%20common%20v1-0-0.7z)
 
 (Common, Housing, Nature - 12.7 GB unpacked)
 
 **Expansions:**
 
-[kart world textures heavensward v2-0-0](https://downloads.kartoffels.club/kart%20world%20textures%20heavensward%20v2-0-0.7z "https://downloads.kartoffels.club/kart%20world%20textures%20heavensward%20v2-0-0.7z")
+[kart world textures heavensward v2-0-0](https://downloads.kartoffels.club/kart%20world%20textures%20heavensward%20v2-0-0.7z)
 
 (Heavensward - 10.3 GB unpacked )
 
-[kart world textures shadowbringers v1-0-0](https://downloads.kartoffels.club/kart%20world%20textures%20shadowbringers%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20world%20textures%20shadowbringers%20v1-0-0.7z")
+[kart world textures shadowbringers v1-0-0](https://downloads.kartoffels.club/kart%20world%20textures%20shadowbringers%20v1-0-0.7z)
 
 (Shadowbringers - 23.4 GB unpacked)
 
-[kart world textures endwalker v1-0-0](https://downloads.kartoffels.club/kart%20world%20textures%20endwalker%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20world%20textures%20endwalker%20v1-0-0.7z")
+[kart world textures endwalker v1-0-0](https://downloads.kartoffels.club/kart%20world%20textures%20endwalker%20v1-0-0.7z)
 
 (Endwalker - 22.9 GB unpacked)
 
-[kart world textures stormblood v2-0-0](https://downloads.kartoffels.club/kart+world+textures+stormblood+v2-0-0.7z "https://downloads.kartoffels.club/+kart+world+textures+stormblood+v2-0-0.7z")
+[kart world textures stormblood v2-0-0](https://downloads.kartoffels.club/kart+world+textures+stormblood+v2-0-0.7z)
 
 (Stormblood - 16.8 GB unpacked)
 
 **Alpha/Beta:**
 
-[kart vfx textures v0-0-2](https://downloads.kartoffels.club/TEST%20kart%20vfx%20textures%20v0-0-2.7z "https://downloads.kartoffels.club/TEST%20kart%20vfx%20textures%20v0-0-2.7z")
+[kart vfx textures v0-0-2](https://downloads.kartoffels.club/TEST%20kart%20vfx%20textures%20v0-0-2.7z)
 
 (VFX Textures - 4.82 GB unpacked)
 
 **Updates:**
 
-[Kart world textures main v1-1-0 update](https://downloads.kartoffels.club/kart+world+textures+main+v1-1-0-update.7z "https://downloads.kartoffels.club/kart+world+textures+main+v1-1-0-update.7z")
+[Kart world textures main v1-1-0 update](https://downloads.kartoffels.club/kart+world+textures+main+v1-1-0-update.7z)
 
-[Kart world textures endwalker v1-1-0 update](https://downloads.kartoffels.club/kart+world+textures+endwalker+v1-1-0-update.7z "https://downloads.kartoffels.club/kart+world+textures+endwalker+v1-1-0-update.7z")
+[Kart world textures endwalker v1-1-0 update](https://downloads.kartoffels.club/kart+world+textures+endwalker+v1-1-0-update.7z)
 
-[Kart world textures stormblood v2-0-1 update](https://downloads.kartoffels.club/kart+world+textures+stormblood+v2-0-1-update.7z "https://downloads.kartoffels.club/kart+world+textures+stormblood+v2-0-1-update.7z")
+[Kart world textures stormblood v2-0-1 update](https://downloads.kartoffels.club/kart+world+textures+stormblood+v2-0-1-update.7z)
 
-[Kart world textures common v1-1-0 update](https://downloads.kartoffels.club/kart+world+textures+common+v1-1-0-update.7z "https://downloads.kartoffels.club/kart+world+textures+common+v1-1-0-update.7z")
+[Kart world textures common v1-1-0 update](https://downloads.kartoffels.club/kart+world+textures+common+v1-1-0-update.7z)
 
 These updates add all the fixes I've done last month and the new 6.3 textures.
 
