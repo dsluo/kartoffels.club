@@ -20,24 +20,24 @@ Smart computer look at picture and make it high resolution.
 
  In FFXIV, the texture assets are divided broadly into:
 
--   **bg** - background textures
--   **bgcommon** - common background textures
--   **chara** - character textures
--   **ui** - user interface textures
--   **vfx** - visual effect textures
--   **common** - pre-rendered graphics and text textures.
+* **bg** - background textures
+* **bgcommon** - common background textures
+* **chara** - character textures
+* **ui** - user interface textures
+* **vfx** - visual effect textures
+* **common** - pre-rendered graphics and text textures.
 
 The character textures are inside of the ***chara*** folder.
 
 **chara** is divided into:
 
--   **accessory** - textures for accessories: ring, necklace, and bracelet slots.
--   **common** - textures for decals.
--   **demihuman** - textures for demihumans like Gaia and beast races.
--   **equipment** - textures for equipment: gloves, boots, hat, shirt, and pants slots.
--   **human** - textures for player races including hair, faces, body, NPC faces and hairs.
--   **monster** - textures for monsters, bosses, some NPCs, minions, summons, and special accessories.
--   **weapon** - textures for weapons and things you hold in your hands like food.
+* **accessory** - textures for accessories: ring, necklace, and bracelet slots.
+* **common** - textures for decals.
+* **demihuman** - textures for demihumans like Gaia and beast races.
+* **equipment** - textures for equipment: gloves, boots, hat, shirt, and pants slots.
+* **human** - textures for player races including hair, faces, body, NPC faces and hairs.
+* **monster** - textures for monsters, bosses, some NPCs, minions, summons, and special accessories.
+* **weapon** - textures for weapons and things you hold in your hands like food.
 
 ## Downloads:
 
@@ -45,13 +45,13 @@ The character textures are inside of the ***chara*** folder.
 
 ### **MOBS:**
 
-[kart chara textures mob 2x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%202x%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20chara%20textures%20mob%202x%20v1-0-0.7z") *RECOMMENDED*  NOT UPLOADED YET
+[kart chara textures mob 2x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%202x%20v1-0-0.7z "https\://downloads.kartoffels.club/kart%20chara%20textures%20mob%202x%20v1-0-0.7z") *RECOMMENDED*  NOT UPLOADED YET
 
 (Demihuman, Monster in 2x resolution)
 
 Zipped size: TBD GB, Unzipped size: 34.1 GB
 
-[kart chara textures mob 4x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20v1-0-0.7z") NOT UPLOADED YET
+[kart chara textures mob 4x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20v1-0-0.7z "https\://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20v1-0-0.7z") NOT UPLOADED YET
 
 (Demihuman, Monster in 4x resolution)
 
@@ -59,13 +59,13 @@ Zipped size: TBD GB, Unzipped size: 246 GB
 
 ### **EQUIPMENT:**
 
-[kart chara textures equipment 2x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20v1-0-0.7z") *RECOMMENDED*  NOT UPLOADED YET
+[kart chara textures equipment 2x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20v1-0-0.7z "https\://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20v1-0-0.7z") *RECOMMENDED*  NOT UPLOADED YET
 
 (Accessory, Equipment, Weapon in 2x resolution)
 
 Zipped size: TBD GB, Unzipped size: 32.7 GB
 
-[kart chara textures equipment 4x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20v1-0-0.7z")  NOT UPLOADED YET
+[kart chara textures equipment 4x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20v1-0-0.7z "https\://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20v1-0-0.7z")  NOT UPLOADED YET
 
 (Accessory, Equipment, Weapon in 4x resolution)
 
@@ -75,7 +75,7 @@ Zipped size: TBD GB, Unzipped size: TBD GB
 
 If you understand what this guide is saying then you can do this instead of redownloading.
 
-First dedupe "kart diffuse, kart multi, kart normal, kart specular, kart special 4x".
+First UNDUPE "kart diffuse, kart multi, kart normal, kart specular, kart special 4x".
 
 Then split them following this guide:
 
@@ -87,18 +87,17 @@ kart chara textures mob 4x = FROM  "kart diffuse 4x, kart multi 4x, kart normal 
 
 kart chara textures mob 2x = FROM "kart diffuse 2x, kart multi 2x, kart normal 2x, kart specular 1x, kart special 4x" COPY ONLY "demihuman, monster, EXCEPT monster/m6001-monster/m6006"
 
+[kart chara textures equipment 2x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20update-for-smarties-only.7z "https\://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20update-for-smarties-only.7z")
 
-[kart chara textures equipment 2x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20update-for-smarties-only.7z "https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20update-for-smarties-only.7z")
+[kart chara textures equipment 4x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20update-for-smarties-only.7z "https\://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20update-for-smarties-only.7z")
 
-[kart chara textures equipment 4x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20update-for-smarties-only.7z "https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20update-for-smarties-only.7z")
+[kart chara textures mob 2x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%202x%20update-for-smarties-only.7z "https\://downloads.kartoffels.club/kart%20chara%20textures%20mob%202x%20update-for-smarties-only.7z")
 
-[kart chara textures mob 2x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%202x%20update-for-smarties-only.7z "https://downloads.kartoffels.club/kart%20chara%20textures%20mob%202x%20update-for-smarties-only.7z")
-
-[kart chara textures mob 4x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20update-for-smarties-only.7z "https://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20update-for-smarties-only.7z")
+[kart chara textures mob 4x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20update-for-smarties-only.7z "https\://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20update-for-smarties-only.7z")
 
 ### **HUMAN**:
 
-[kart chara textures human v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20human%20v1-0-0.7z "https://downloads.kartoffels.club/kart%20chara%20textures%20human%20v1-0-0.7z") *RECOMMENDED* NOT UPLOADED YET
+[kart chara textures human v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20human%20v1-0-0.7z "https\://downloads.kartoffels.club/kart%20chara%20textures%20human%20v1-0-0.7z") *RECOMMENDED* NOT UPLOADED YET
 (Face, Face Paint, Hair in 4x resolution)
 
 Zipped size: 1.67 GB, Unzipped Size 3.37 GB
@@ -109,25 +108,24 @@ Zipped size: 1.67 GB, Unzipped Size 3.37 GB
 
 #### **FILE SIZES:**
 
-**Total Recommended Zipped Folders Size: TBD GB**  
+**Total Recommended Zipped Folders Size: TBD GB**\
 **Total Unpacked Folders Size: TBD GB**
 
 #### **Hey Kart I'm running out of disc space:**
 
 [Do this on your textures folders](https://www.windowscentral.com/how-enable-file-compression-windows-11#compress_ntfs_file_windows11)
 
-
 ## **Postword**:
 
 My goal is to:
 
--   To have world textures of a higher resolution than the original while in cutscenes.
--   To complete this in a somewhat timely manner.
--   To learn some new techniques in regards to manipulating image data.
+* To have world textures of a higher resolution than the original while in cutscenes.
+* To complete this in a somewhat timely manner.
+* To learn some new techniques in regards to manipulating image data.
 
 Because of these restraints,
 
--   These works will not be as high quality as my various Face Upscales (which are checked individually) or even of images subdivided into subject categories such as SSEUT (characters, landscapes, armors).
--   These thousands of images are processed by being sorted into very broad TYPE categories (such as diffuse, normal, detail alpha, cutout alpha) only.
--   These works will be released much faster than specific works for the quantity.
--   Because I use these as a learning opportunity and new techniques are made every day, expect occasional refactoring (redoing my old work with new techniques.)
+* These works will not be as high quality as my various Face Upscales (which are checked individually) or even of images subdivided into subject categories such as SSEUT (characters, landscapes, armors).
+* These thousands of images are processed by being sorted into very broad TYPE categories (such as diffuse, normal, detail alpha, cutout alpha) only.
+* These works will be released much faster than specific works for the quantity.
+* Because I use these as a learning opportunity and new techniques are made every day, expect occasional refactoring (redoing my old work with new techniques.)
