@@ -87,7 +87,7 @@ World Textures:
 
 **Updates:**
 
-[Kart world textures main v1-1-0 update](https://downloads.kartoffels.club/kart+world+textures+main+v1-1-0-update.7z)
+[Kart world textures main v1-2-0 update](https://downloads.kartoffels.club/kart+world+textures+main+v1-2-0-update.7z)
 
 [Kart world textures endwalker v1-1-0 update](https://downloads.kartoffels.club/kart+world+textures+endwalker+v1-1-0-update.7z)
 
