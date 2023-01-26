@@ -41,6 +41,8 @@ The character textures are inside of the ***chara*** folder.
 
 ## Downloads:
 
+[D﻿ownload Archive](https://kache.kartoffels.club)
+
 **Currently up to date with ENDWALKER PATCH 6.3**
 
 ### **MOBS:**
