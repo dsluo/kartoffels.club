@@ -45,13 +45,13 @@ The character textures are inside of the ***chara*** folder.
 
 ### **MOBS:**
 
-[kart chara textures mob 2x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%202x%20v1-0-0.7z) *RECOMMENDED*  NOT UPLOADED YET
+kart chara textures mob 2x *RECOMMENDED*
 
 (Demihuman, Monster in 2x resolution)
 
 Zipped size: TBD GB, Unzipped size: 34.1 GB
 
-[kart chara textures mob 4x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20v1-0-0.7z) NOT UPLOADED YET
+kart chara textures mob 4x
 
 (Demihuman, Monster in 4x resolution)
 
@@ -59,17 +59,36 @@ Zipped size: TBD GB, Unzipped size: 246 GB
 
 ### **EQUIPMENT:**
 
-[kart chara textures equipment 2x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20v1-0-0.7z) *RECOMMENDED*  NOT UPLOADED YET
+kart chara textures equipment 2x *RECOMMENDED*
 
 (Accessory, Equipment, Weapon in 2x resolution)
 
 Zipped size: TBD GB, Unzipped size: 32.7 GB
 
-[kart chara textures equipment 4x v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20v1-0-0.7z)  NOT UPLOADED YET
+kart chara textures equipment 4x v1-0-0
 
 (Accessory, Equipment, Weapon in 4x resolution)
 
-Zipped size: TBD GB, Unzipped size: TBD GB
+
+
+### **HUMAN**:
+
+kart chara textures human *RECOMMENDED*
+(Face, Face Paint, Hair in 4x resolution)
+
+## INSTALLING:
+
+#### **[Installing Penumbra](https://reniguide.info/#installpenumbra)**
+
+#### **FILE SIZES:**
+
+**Total Recommended Zipped Folders Size: TBD GB**\
+**Total Unpacked Folders Size: TBD GB**
+
+#### **Hey Kart I'm running out of disc space:**
+
+[Do this on your textures folders](https://www.windowscentral.com/how-enable-file-compression-windows-11#compress_ntfs_file_windows11)
+
 
 **UPDATING FROM "PAIN AND SUFFERING" (only for smarties)**
 
@@ -86,34 +105,6 @@ kart chara textures equipment 2x = FROM "kart diffuse 2x, kart multi 2x, kart no
 kart chara textures mob 4x = FROM  "kart diffuse 4x, kart multi 4x, kart normal 4x, kart specular 2x, kart special 4x" COPY ONLY "demihuman, monster, EXCEPT monster/m6001-monster/m6006" 
 
 kart chara textures mob 2x = FROM "kart diffuse 2x, kart multi 2x, kart normal 2x, kart specular 1x, kart special 4x" COPY ONLY "demihuman, monster, EXCEPT monster/m6001-monster/m6006"
-
-[kart chara textures equipment 2x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%202x%20update-for-smarties-only.7z)
-
-[kart chara textures equipment 4x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20equipment%204x%20update-for-smarties-only.7z)
-
-[kart chara textures mob 2x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%202x%20update-for-smarties-only.7z)
-
-[kart chara textures mob 4x update-for-smarties-only](https://downloads.kartoffels.club/kart%20chara%20textures%20mob%204x%20update-for-smarties-only.7z)
-
-### **HUMAN**:
-
-[kart chara textures human v1-0-0](https://downloads.kartoffels.club/kart%20chara%20textures%20human%20v1-0-0.7z) *RECOMMENDED* NOT UPLOADED YET
-(Face, Face Paint, Hair in 4x resolution)
-
-Zipped size: 1.67 GB, Unzipped Size 3.37 GB
-
-## INSTALLING:
-
-#### **[Installing Penumbra](https://reniguide.info/#installpenumbra)**
-
-#### **FILE SIZES:**
-
-**Total Recommended Zipped Folders Size: TBD GB**\
-**Total Unpacked Folders Size: TBD GB**
-
-#### **Hey Kart I'm running out of disc space:**
-
-[Do this on your textures folders](https://www.windowscentral.com/how-enable-file-compression-windows-11#compress_ntfs_file_windows11)
 
 ## **Postword**:
 
