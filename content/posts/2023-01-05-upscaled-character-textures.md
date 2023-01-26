@@ -80,10 +80,19 @@ kart chara textures human *RECOMMENDED*
 
 #### **[Installing Penumbra](https://reniguide.info/#installpenumbra)**
 
-#### **FILE SIZES:**
+I﻿NSTALL MAIN FILES
+INSTALL ALL UPDATES.
 
-**Total Recommended Zipped Folders Size: TBD GB**\
-**Total Unpacked Folders Size: TBD GB**
+### general install instruction
+
+Just drag the folder out of the archive into your "penumbra mods" folder. Then "rediscover files" on the main "settings" tab of Penumbra. The go to "mods" tab and activate it the mod.
+Tip: The root folder of a given mod (e.g.: "kart world textures main") will ALWAYS have "meta.json" and "default_mod.json" in it.
+
+### update install instructions
+
+Drag the folder out of the archive on the preexisting folder in the "penumbra mods" folder and say "yes" to overwrites.
+I.e.: Inside "kart world textures main v1-1-0 update" is folder "kart world textures main". Copy this to your "penumbra mods" folder and overwrite the original "kart world textures main". You will know you did it right if Windows asks "Do you want to overwrite?".
+
 
 #### **Hey Kart I'm running out of disc space:**
 
