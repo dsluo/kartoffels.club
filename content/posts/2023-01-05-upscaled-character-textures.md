@@ -69,8 +69,6 @@ kart chara textures equipment 4x v1-0-0
 
 (Accessory, Equipment, Weapon in 4x resolution)
 
-
-
 ### **HUMAN**:
 
 kart chara textures human *RECOMMENDED*
@@ -119,7 +117,8 @@ kart chara textures mob 2x = FROM "kart diffuse 2x, kart multi 2x, kart normal 2
 
 My goal is to:
 
-* To have world textures of a higher resolution than the original while in cutscenes.
+* Too look functionally the same from a distance but to not become a pixelated smear up close.
+  *﻿ Too not be excessively large. Which is actually really hard to do.
 * To complete this in a somewhat timely manner.
 * To learn some new techniques in regards to manipulating image data.
 
@@ -127,5 +126,4 @@ Because of these restraints,
 
 * These works will not be as high quality as my various Face Upscales (which are checked individually) or even of images subdivided into subject categories such as SSEUT (characters, landscapes, armors).
 * These thousands of images are processed by being sorted into very broad TYPE categories (such as diffuse, normal, detail alpha, cutout alpha) only.
-* These works will be released much faster than specific works for the quantity.
 * Because I use these as a learning opportunity and new techniques are made every day, expect occasional refactoring (redoing my old work with new techniques.)
