@@ -68,7 +68,7 @@ kart world textures endwalker (ex4)
 
 **Alpha/Beta:**
 
-kart vfx textures v0-0-2
+kart vfx textures
 
 ## INSTALLING:
 
