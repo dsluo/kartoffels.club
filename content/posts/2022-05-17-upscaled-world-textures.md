@@ -91,7 +91,7 @@ I.e.: Inside "kart world textures main v1-1-0 update" is folder "kart world text
 #### **FILE SIZES:**
 
 **Total Zipped Folders Size: 78.2 GB**\
-**Total Unpacked Folders Size: 113 GB**
+**Total Unpacked Folders Size: 126 GB**
 
 #### **Hey Kart I'm running out of disc space:**
 
