@@ -19,7 +19,7 @@ draft: false
 
 > **RESHADE:**
 >
-> * [Reshade 5.4.2 with addons](https://reshade.me/downloads/ReShade_Setup_5.4.2_Addon.exe)
+> * [Reshade with addons](https://reshade.me)
 >
 > **RESHADE shader packs:**
 >
@@ -45,60 +45,55 @@ draft: false
 
 All mods below are installed using the penumbra plugin for dalamud/XIVLauncher. I really, really, really recommend using penumbra to control your mods instead of FFXIV TexTools. TexTools is only necessary if YOU want to make mods or edit mods yourself.
 
-These are mods I use to make the game look a bit more modern. I really enjoy the default aesthetic of the game, so I don't change anything drastically from that. All can be found on [XIVmodarchive](https://www.xivmodarchive.com) or [FFXIV nexus](https://www.nexusmods.com/finalfantasy14).
+These are mods I use to make the game look a bit more modern. I really enjoy the default aesthetic of the game, so I don't change anything drastically from that. All can be found on [XIVmodarchive](https://www.xivmodarchive.com) or [FFXIV nexus](https://www.nexusmods.com/finalfantasy14) or [heliosphere](https://heliosphere.app) or [Aetherlink](https://beta.aetherlink.app).
 The number in front is the priority I set it at in penumbra. Priority determines which is loaded first, which is then overwritten by what is loaded later. Therefore, bigger number OVERWRITES smaller number.
 
 #### **Equipment:**
 
-* 1 - Hrothgar and Viera Hats (nexus)
-* 0 - Hats & Helmets for Viera Recommend Type
+* 1 - Hrothgar and Viera Hats (heliosphere)
+* 0 - Hats & Helmets for Viera Recommend Type (XIVarchive)
 * 0 - NO CID GARLAND DECAL (nexus)
 
 #### **Body replacers:**
 
 Most older games don't have fingernails or toes due to model budgets and it bothers me. These HD bodies add them. Be aware all but Otopop have NSFW pages.
 
-* 3 - The Body SE (SFW version) NSFW page
-* 1 - Bibo+ (SFW version) NSFW page
-* 2 - Bibo+ vanilla hands (no spa quality manicures)
-* 0 - Otopop (SFW lalafel bodies) 
-* 2 - hrBody (SFW version) NSFW page (Male Hrothgar and Roeg)
+* 3 - The Body SE (SFW version) NSFW page (Aetherlink)
+* 1 - Bibo+ (SFW version) NSFW page (Aetherlink)
+* 2 - Bibo+ vanilla hands (XIVarchive)
+* 0 - Otopop (SFW lalafel bodies)  (heliosphere)
+* 2 - hrBody (SFW version) NSFW page (XIVarchive)
 
 #### **Hands/Feet replacers:**
 
 Since body parts are built into equipment in the game, you must patch all equipment to match the body, if you want it to show while wearing hand/feet pieces.
 
-* 2 - koneko mani pedi mega-pack
-* 0 - the ultimate foot pack
-* 3 - bibo+ mani-pedi megapack (nexus)
-* 1  - TBSE mani-pedi megapack (nexus)
-* 3 - otopop mani-pedi megapack
+* 2 - koneko mani pedi mega-pack (XIVarchive)
+* 0 - the ultimate foot pack (XIVarchive)
+* 3 - bibo+ mani-pedi megapack (heliosphere)
+* 1  - TBSE mani-pedi megapack (heliosphere)
+* 3 - otopop mani-pedi megapack (heliosphere)
 
 #### **Eye Textures:**
 
-* 2 - Bright Eyes
+* 2 - Bright Eyes (XIVarchive)
 
 #### **Teeth:**
 
-* 0 - Everyone Bites Illy Vanilla Bite
+* 0 - Everyone Bites Illy Vanilla Bite (heliosphere)
 
 #### **Beloved NPC fixes/improvements:**
 
-* 0 - Twins Neckseam Fix
+* 0 - Twins Neckseam Fix (XIVarchive)
 * 0 - Crystal Exarch TB2ified (nexus)
-* 0 - Male Miqo Relaxed Default Idle
-* 1 - Aymeric's Attractive Fingers 2.0
+* 0 - Male Miqo Relaxed Default Idle (XIVarchive)
+* 1 - Aymeric's Attractive Fingers 2.0 + Bites (XIVarchive)
 
 #### **My most perfect creations:**
 
-* 1 - kart diffuse 2x
-* 1 - kart multi 2x
-* 1 - kart normals 2x
-* 1 - kart specular 2x
-* 2 - kart special 4x
-* 0 - kart face paint textures
-* 10 - kart face UltraFART
-* 9 - kart hair
+* 1 - kart character textures equipment 2x
+* 1 - kart character textures human
+* 1 - kart character textures mob 2x
 * 0 - kart vfx textures
 * 0 - kart world textures main
 * 0 - kart world textures common
