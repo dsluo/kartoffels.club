@@ -103,22 +103,6 @@ I.e.: Inside "kart world textures main v1-1-0 update" is folder "kart world text
 [Do this on your textures folders](https://www.windowscentral.com/how-enable-file-compression-windows-11#compress_ntfs_file_windows11)
 
 
-**UPDATING FROM "PAIN AND SUFFERING" (only for smarties)**
-
-If you understand what this guide is saying then you can do this instead of redownloading.
-
-First UNDUPE "kart diffuse, kart multi, kart normal, kart specular, kart special 4x".
-
-Then split them following this guide:
-
-kart chara textures equipment 4x= FROM "kart diffuse 4x, kart multi 4x, kart normal 4x, kart specular 2x, kart special 4x" COPY ONLY "accessory, equipment, monster/m6001-monster/m6006", weapons"
-
-kart chara textures equipment 2x = FROM "kart diffuse 2x, kart multi 2x, kart normal 2x, kart specular 1x, kart special 4x" COPY ONLY "accessory, equipment, monster/m6001-monster/m6006", weapons"
-
-kart chara textures mob 4x = FROM  "kart diffuse 4x, kart multi 4x, kart normal 4x, kart specular 2x, kart special 4x" COPY ONLY "demihuman, monster, EXCEPT monster/m6001-monster/m6006" 
-
-kart chara textures mob 2x = FROM "kart diffuse 2x, kart multi 2x, kart normal 2x, kart specular 1x, kart special 4x" COPY ONLY "demihuman, monster, EXCEPT monster/m6001-monster/m6006"
-
 ## **Postword**:
 
 My goal is to:
