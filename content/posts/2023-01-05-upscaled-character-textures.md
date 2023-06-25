@@ -57,7 +57,7 @@ kart chara textures mob 4x
 
 (Demihuman, Monster in 4x resolution)
 
-Zipped size: TBD GB, Unzipped size: 246 GB
+Zipped size: TBD GB, Unzipped size: 128 GB
 
 ### **EQUIPMENT:**
 
@@ -65,16 +65,20 @@ kart chara textures equipment 2x *RECOMMENDED*
 
 (Accessory, Equipment, Weapon in 2x resolution)
 
-Zipped size: TBD GB, Unzipped size: 32.7 GB
+Zipped size: TBD GB, Unzipped size: 32.8 GB
 
-kart chara textures equipment 4x v1-0-0
+kart chara textures equipment 4x
 
 (Accessory, Equipment, Weapon in 4x resolution)
+
+Zipped size: TBD GB, Unzipped size: 103 GB
 
 ### **HUMAN**:
 
 kart chara textures human *RECOMMENDED*
-(Face, Face Paint, Hair in 4x resolution)
+(Face, Face Paint, Au Ra scales, Hair in 4x resolution)
+
+Zipped size: TBD GB, Unzipped size: 3.5 GB
 
 ## INSTALLING:
 
