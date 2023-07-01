@@ -50,7 +50,7 @@ Smart computer look at picture and make it high resolution.
 
 **Most essential:**
 
-kart world textures grasses (billboard grass)
+kart world textures grasses (billboard grass) <-- Greatest Improvement / Least Cost
 
 kart world textures main (ffxiv)
 
@@ -108,8 +108,10 @@ Why do you do it like this?
 **ALWAYS DOWNLOAD THE LATEST VERSION!**
 
 #### **FILE SIZES:**
-
-**Total Zipped Folders Size: 78.2 GB**  
+**Essential Zipped Folders Size: 25.8 GB**
+**Essential Unpacked Folders Size: 38 GB**
+ 
+**Total Zipped Folders Size: 88.6 GB**  
 **Total Unpacked Folders Size: 126 GB**
 
 #### **Hey Kart I'm running out of disc space:**
